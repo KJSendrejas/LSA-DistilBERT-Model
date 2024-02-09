@@ -1,0 +1,2443 @@
+<aiml version="1.0.1" encoding="UTF-8">
+  <!-- AIML categories -->
+  <category>
+    <pattern>What is OXGN</pattern>
+    <template>OXGN is a fashion brand designed for all. From cool styles, affordable essentials and one of a kind collaboration pieces, our customers are sure to find that signature OXGN brand of style. With timeless classics from our GENERATIONS collection, the leveled-up sports inspired pieces from PREMIUM THREADS and our inclusive co-gender line COED, our brand serves to make looking cool as easy as breathing.</template>
+  </category>
+
+  <category>
+    <pattern>What is Golden ABC INC</pattern>
+    <template>GOLDEN ABC, Inc. (GABC) is a multi-awarded international fashion enterprise that is home to top proprietary brands shaping the retail industry today. Produced, marketed, and retailed under a fast-growing, dynamic family of well-differentiated, proprietary brands: PENSHOPPE, OXYGEN, FORME, MEMO, REGATTA, and BOCU. Originating in the Philippines in 1986, GABC now has more than 1000 strategically located sites and presence in different countries around Asia.</template>
+  </category>
+  
+ <category>
+    <pattern>Can my Oxygen Customer Loyalty Card be applied to my online order</pattern>
+    <template>The OXGN VIP Loyalty Card is not applicable online and it has been already been discontinued in our physical stores last December 31, 2021.</template>
+  </category>
+
+  <category>
+    <pattern>How to confirm order</pattern>
+    <template>A confirmation e-mail/ SMS will be sent for all successful orders made. This contains your order number, the order amount, item(s) ordered, your billing and delivery address, including the payment method used and how you will be receiving order updates.</template>
+  </category>
+
+ <category>
+    <pattern>Can I cancel my order</pattern>
+    <template>Yes, you have the option cancel your order within two (2) hours from the time it was created. You can see this on your order confirmation email or on your online store order history. Once the time frame has passed, the option to cancel will no longer appear on your end. If in case you still need to cancel your order but you no longer have the option to do so, you can send an email to shop@oxgnfashion.com and our Customer Care Team will get in touch with you.</template>
+  </category>
+
+  <category>
+    <pattern>Can I request for a paper bag</pattern>
+    <template>We cannot include paper bags for Online Orders shipped to their chosen delivery address but we can definitely provide for those Online orders that were checked-out on a Store Pick-up option."</template>
+  </category>
+
+ <category>
+    <pattern>Can I send order as a gift</pattern>
+    <template>After you tap on REVIEW MY CART, you will see the option to send your order as a Gift. Sending it as a gift means that a gift receipt will be used instead of a regular sales invoice. A gift receipt shows proof of purchase but leaves out the amount spent.</template>
+  </category>
+
+ <category>
+    <pattern>How Can I Make Changes to My Order</pattern>
+    <template>Once the check out process has been completed, changes to the order in terms of item/size/color/quantity can no longer be made. What you can do is cancel your order completely within two (2) hours from the time you placed it so you can place a new one with the changes you want.</template>
+  </category>
+
+ <category>
+    <pattern>How Do I Make an Order</pattern>
+    <template>The first step is to click 'Add to Cart' once you've found something you want to save the items in your order basket. Second, click the 'Review My Cart' button to be redirected to the cart page, where you can make any final changes to your order, such as quantity, size, or style. Third, address Finder will appear on your screen. Please enter your delivery address by using the dropdown menus. If you accidentally exit out before finishing your details, click on 'Address Finder' to bring it back up. This is to prevent your orders from being held due to incorrect or incomplete shipping information.</template>
+  </category>
+
+ <category>
+    <pattern>Can I Cancel My Order</pattern>
+    <template>Yes, you have the option cancel your order within two (2) hours from the time it was created either it is shipped to your prefered address or pick-up in your chosen You can view this on your order confirmation email or on your online store order history. Once the time frame has passed, the option to cancel will no longer appear on your end.</template>
+  </category>
+
+ <category>
+    <pattern>Was not able to claim my Order Can I re-order</pattern>
+    <template>All unclaimed packages beyond the scheduled pick-up date are considered canceled and will be put back to our stocks.</template>
+  </category>
+
+ <category>
+    <pattern>In which stores can I pickup my order</pattern>
+    <template>You can now order online and pick up the items in your chosen OXGN branches: SM CITY NORTH EDSA, SM CITY SAN LAZARO, AYALA TRINOMA, ROBINSONS GALLERIA, SM MEGAMALL, SM CITY CEBU ,AYALA CENTER CEBU, MARKET MARKET, SM CITY FAIRVIEW, SM SEASIDE CEBU, SM LANANG, GMALL TAGUM, SM CITY DAVAO, GAISANO MALL OF DAVAO, SM CITY EAST ORTIGAS, SM MARIKINA, AYALA GLORIETTA, SM CITY MANILA, SM CITY GRAND CENTRAL, MALL OF ASIA, SM CITY SUCAT, ROBINSONS LAOAG, SM CITY BAGUIO, SM CITY PAMPANGA, SM CITY CLARK, SM CITY DASMARIÑAS, SM CALAMBA, SM CITY LUCENA, SM CITY LIPA, SM CITY ILO-ILO, SM CITY BACOLOD, SM Roxas, AYALA CENTRAL BLOC, Robinsons Tacloban, MINDPRO, ROBINSONS ILIGAN, Gaisano Mall Digos, SM CITY GENERAL SANTOS, KCC MALL MARBEL, SM CITY CAUAYAN, ISABELA, SM CITY MARILAO, TUTUBAN CENTER, Val Alabang, AYALA MALLS MANILA BAY, SM CITY LEGAZPI, ALTURAS MALL TAGBILARAN, SM PREMIER, SM BUTUAN, Mall of Alnor, SM City Tuguegarao, Ever Commonwelath, ROBINSONS BACOLOD, Fishermall.</template>
+  </category>
+
+ <category>
+    <pattern>Can I just book Grab Lalamove etc to pick up my order</pattern>
+    <template>As much as we'd like to, this option is not yet allowed at the moment.</template>
+  </category>
+
+ <category>
+    <pattern>What is Check in Store in the product page do</pattern>
+    <template>This feature gives you the option to buy the items online and pick it up in our stores.</template>
+  </category>
+
+ <category>
+    <pattern>How can I pay for my order</pattern>
+    <template>Oxgnfashion.com accepts the following forms of payment: GCash, Credit/Debit Card and COD (Cash-on-Delivery). During the order checkout process, you will be asked to select the payment method of your choice. If you select Credit/Debit Card, you will be redirected to our payment portal where you will be asked to enter your card details.</template>
+  </category>
+
+ <category>
+    <pattern>Can I Save My Credit Debit Card Information</pattern>
+    <template>No, there is no option to save your credit or debit card information on your online store profile. Even if you have already used the same card, we do not store your card details to protect the security of your data.</template>
+  </category>
+
+ <category>
+    <pattern>Until when can I pick up my Order</pattern>
+    <template>Customers will receive an e-mail notification when their order is read for pick up. It is stated in the notification that they can pick up the order within 7 days from the receipt of e-mail.</template>
+  </category>
+
+ <category>
+    <pattern>What if I cannot pick up my order within the given timeframe</pattern>
+    <template>No worries! You may assign a representative that may pick-up your order and have them present the following: Representative's Valid ID, Authorization letter with your Full Name and Signature, Photocopy of your Valid ID, and Screenshot of Order No. from email</template>
+  </category>
+
+ <category>
+    <pattern>What are the requirements for pick up orders</pattern>
+    <template>If you have placed order via our online store and chose to pick it up in one of branches, please prepare the following to be checked by our store partners: Valid ID, Screenshot of Order No. from email.</template>
+  </category>
+
+ <category>
+    <pattern>How can I extend the pick up date of my order</pattern>
+    <template>Customers with prepaid orders are allowed to request for up to 7 days extension from the first pick-up schedule.</template>
+  </category>
+
+ <category>
+    <pattern>What If My Order Got Returned</pattern>
+    <template>If your order gets returned to our warehouse, we're sorry to let you know that it is already considered as canceled from our end. This is only done after two (2) unsuccessful delivery attempts.</template>
+  </category>
+
+ <category>
+    <pattern>What will happen if I missed the delivery</pattern>
+    <template>Our delivery partners will make two (2) attempts in getting your package delivered. If they missed you on the first instance, the courier will either send you an SMS or give you a call to let you know that he came.</template>
+  </category>
+
+  <category>
+    <pattern>What if Im in the no delivery zones</pattern>
+    <template>As we believe in making the latest fashion styles accessible to everyone, we can assure you that we have wide reach across the Philippines. However, due to geographical and logistical restrictions, there might be some isolated areas we cannot serve but rest assured we'll do our best to get to your location.</template>
+  </category>
+
+ <category>
+    <pattern>Who are your shipping partners</pattern>
+    <template>For LBC orders, click https://www.lbcexpress.com/track/ and enter your tracking number on the Track and Trace search field. For Go21 orders, click https://booking.go21.com.ph/  and enter your Tracking Number on the Locate My Package search field. For JandT orders, click https://www.jtexpress.ph/index/query/gzquery.html  and enter your Tracking Number on the Track and Trace search field. For WSI orders, click http://www.worklinkdalivery.com/ and enter your Tracking Number on the Track and Trace search field. If your order does not arrive within the delivery timeline provided, you can send us an email at shop@oxgnfashion.com or fill up our Website Contact Us form.</template>
+  </category>
+
+ <category>
+    <pattern>How can I track orders</pattern>
+    <template>Once your order has been handed over to our shipping partners, you will receive an email notification along with your order tracking number.</template>
+  </category>
+
+ <category>
+    <pattern>What is the Online Store Returns Policy</pattern>
+    <template>Customers who wish to return items purchased from our online store can do so by packing the item along with the sales invoice and bringing it to any Penshoppe store nationwide. The return must be made within 30 days from the date of purchase, with all tags attached and the item unused and unwashed.</template>
+  </category>
+
+  <category>
+    <pattern>What If the Item I Want For Exchange is Out of Stock</pattern>
+    <template>If the same item is not available, you don’t have to worry as you can choose any item inside the store. If the new item (different from what was originally purchased) chosen for exchange is of higher value than what was originally purchased, the price difference must be paid at the time of the exchange.</template>
+  </category>
+
+ <category>
+    <pattern>Can I Exchange Gifts Given To Me</pattern>
+    <template>If you receive a gift item from our online store and want to have it exchanged for a different size/color/style, you have the option to do so following our Returns Policy.</template>
+  </category>
+
+ <category>
+    <pattern>How Can I Process an Exchange If I lost my Online Store Receipt</pattern>
+    <template>If you need to process a return or exchange transaction and have lost your online store receipt, please reach out to us with the following information: your order number, the item you will be returning, the reason for the return, the boutique you will be going to, and the date.</template>
+  </category>
+
+ <category>
+    <pattern>Does Your Warehouse Accept Returns</pattern>
+    <template>No, our warehouse does not accept returns from customers but our physical stores do.</template>
+  </category>
+
+  <category>
+    <pattern>What to do in case there is a damaged incorrect item received</pattern>
+    <template>In the event that you received a damaged or incorrect item, it is important to reach out to us immediately so that we can investigate the situation.</template>
+  </category>
+
+ <category>
+    <pattern>What if I want to request for a Refund</pattern>
+    <template>Refund requests are always subject to validation. It is important to note that a change in size, style, or color is not eligible for a refund.</template>
+  </category>
+
+ <category>
+    <pattern>How Do I Create an Account</pattern>
+    <template>Creating an account on the OXGN Online Store is easy and allows you to keep track of your orders through the Order History feature.</template>
+  </category>
+
+ <category>
+    <pattern>What If I Don't Have an Account</pattern>
+    <template>Yes, you can still shop without making an online store account! Just place the items you want in your cart and proceed to check out.</template>
+  </category>
+
+  <category>
+    <pattern>Forgot the Password</pattern>
+    <template>If you have forgotten your password for your online store account, don't worry as it is an easy process to reset it.</template>
+  </category>
+
+ <category>
+    <pattern>How Can I Update My Account Information</pattern>
+    <template>First time to sign in? Tap on the account icon so you can start adding your account details.</template>
+  </category>
+
+ <category>
+    <pattern>How to contact the store</pattern>
+    <template>Reach out to +639399101047 or complete the form below and we’ll gladly assist you.</template>
+  </category>
+
+ <category>
+    <pattern>What is your terms and conditions</pattern>
+    <template>These Terms and Conditions ('Terms', 'Terms and Conditions') govern your relationship with OXGN Website (the 'Service') operated by Golden ABC, Incorporated ('us', 'we', or 'our'). Please read these Terms and Conditions carefully before using our OXGN Website(the 'Service'). Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service. By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. PURCHASES, If you wish to purchase any product or service made available through the Service ('Purchase'), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your billing address, and your shipping information. You represent and warrant that: (i) you have the legal right to use any credit card(s) or other payment method(s) in connection with any Purchase; and that (ii) the information you supply to us is true, correct and complete. By submitting such information, you grant us the right to provide the information to third parties for purposes of facilitating the completion of Purchases. We reserve the right to refuse or cancel your order at any time for certain reasons including but not limited to: product or service availability, errors in the description or price of the product or service, error in your order or other reasons. We reserve the right to refuse or cancel your order if fraud or an unauthorised or illegal transaction is suspected. AVAILABILITY, ERRORS AND INACCURACIES, we are constantly updating our offerings of products and services on the Service. The products or services available on our Service may be mispriced, described inaccurately, or unavailable, and we may experience delays in updating information on the Service and in our advertising on other web sites. We cannot and do not guarantee the accuracy or completeness of any information, including prices, product images, specifications, availability, and services. We reserve the right to change or update information and to correct errors, inaccuracies, or omissions at any time without prior notice. CONTESTS, SWEEPSTAKES AND PROMOTIONS,Any contests, sweepstakes or other promotions (collectively, 'Promotions') made available through the Service may be governed by rules that are separate from these Terms. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms, the Promotion rules will apply. ACCOUNTS, When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service. You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service. You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account. COPYRIGHT POLICY, We respect the intellectual property rights of others. It is our policy to respond to any claim that Content posted on the Service infringes the copyright or other intellectual property infringement ('Infringement') of any person. If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, you must submit your notice in writing to the attention of 'Copyright Infringement' of legal@goldenabc.com and include in your notice a detailed description of the alleged Infringement. You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing your copyright. INTELLECTUAL PROPERTY, The Service and its original content, features and functionality are and will remain the exclusive property of Golden ABC, Incorporated and its licensors. The Service is protected by copyright, trademark, and other laws of both the Philippines and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Golden ABC, Incorporated. LINKS TO OTHER WEB SITES, Our Service may contain links to third-party web sites or services that are not owned or controlled by Golden ABC, Incorporated. Golden ABC, Incorporated has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Golden ABC, Incorporated shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services. We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit. TERMINATION, We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms. Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service. LIMITATION OF LIABILITY, In no event shall Golden ABC, Incorporated, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose. DISCLAIMER, Your use of the Service is at your sole risk. The Service is provided on an 'AS IS' and'AS AVAILABLE' basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance. Golden ABC, Incorporated its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements. GOVERNING LAW, these Terms shall be governed and construed in accordance with the laws of Philippines, without regard to its conflict of law provisions. Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service. CHANGES, We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion. By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service. CONTACT US,If you have any questions about these Terms, please contact us.</template>
+  </category>
+
+  <category>
+    <pattern>What are available mens tops items</pattern>
+    <template>There are five available variations of bottoms for men: Skinny, Tapered (Slim Fit, Woven, Knit), and Jogger Pants</template>
+  </category>
+
+ <category>
+    <pattern>What are available mens loungewear items</pattern>
+    <template>There are two available variations of loungewear for men: Robe and Lounge Set.</template>
+  </category>
+
+  <category>
+    <pattern>What are available mens footwear items</pattern>
+    <template>There are six available variations of footwear for men: Sliders, Single Band, Velcro Sliders, Regular Fliptops, Lace-up, and Lace-up Runner.</template>
+  </category>
+
+ <category>
+    <pattern>What are available ladies tops items</pattern>
+    <template>There are seven available variations of tops for ladies: Regular, Boxy, Slim fit Tee, Shirt (Short Sleeve), Sports Bra, Hoodie, and Regular Pullover</template>
+  </category>
+
+  <category>
+    <pattern>What are available ladies dress items</pattern>
+    <template>There are two available variations of dress for ladies: Oversized Dress, Long Sleeve Regular Fit.</template>
+  </category>
+
+ <category>
+    <pattern>What are available ladies bottoms items</pattern>
+    <template>There are ten available variations of bottoms for ladies: Skinny Jeans (Numerical,  Alpha), Wide Leg Jeans, Shorts (Numerical, Alpha), Biker Shorts (Alpha), Leggings (With Pockets, Without Pockets), Track Pants, and Urban Tapered Trousers.</template>
+  </category>
+
+  <category>
+    <pattern>What are available ladies footwear items</pattern>
+    <template>There are four available variations of footwear for ladies: Sliders, Single Band Sliders, Velcro Sliders, and Lace-up Sneakers.</template>
+  </category>
+
+ <category>
+    <pattern>What are available accessory items</pattern>
+    <template>There are three available categories of accessories in total: Bags, Caps and Hats, and Wallet and Purses.</template>
+  </category>
+
+  <category>
+    <pattern>What are the available bags</pattern>
+    <template>There are four available variations of Bags in accessories: Drawstring Backpack, Bum Bag, Sling Bag, and Tote Bag.</template>
+  </category>
+
+ <category>
+    <pattern>What are the available hats or caps</pattern>
+    <template>There are two available variations of Caps/Hat in accessories: Trucker Hat and Bucket Hat.</template>
+  </category>
+
+   <category>
+    <pattern>What are the available hats or caps</pattern>
+    <template>There are two available variations of Caps/Hat in accessories</template>
+  </category>
+
+ <category>
+    <pattern>What are the available wallets or purses</pattern>
+    <template>There are three available variations of walltes/purses in accessories: Coin Purse (Horizontal and Vertical) and Midsized Bifold Wallet.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top regular fit shirt in double extra small</pattern>
+    <template>For men's top regular fit shirt in double extra small, Chest: 37, Body Length: 26, Sleeve Length: 7.75, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top regular fit shirt in extra small</pattern>
+    <template>For men's top regular fit shirt in extra small, Chest: 39, Body Length: 27, Sleeve Length: 8, USA: 12, EU: 46, and UK: 36.",</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top regular fit shirt in small</pattern>
+    <template>For men's top regular fit shirt in small, Chest: 41, Body Length: 28, Sleeve Length: 8.25, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top regular fit shirt in medium</pattern>
+    <template>For men's top regular fit shirt in medium, Chest: 43, Body Length: 29, Sleeve Length: 8.5, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top regular fit shirt in large</pattern>
+    <template>For men's top regular fit shirt in large, Chest: 45, Body Length: 30, Sleeve Length: 8.75, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top regular fit shirt in extra large</pattern>
+    <template>For men's top regular fit shirt in extra large, Chest: 47, Body Length: 31, Sleeve Length: 9, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top regular fit shirt in double extra large</pattern>
+    <template>For men's top regular fit shirt in double extra large, Chest: 49, Body Length: 32, Sleeve Length: 9.25, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top resort fit shirt in double extra small</pattern>
+    <template>For men's top resort fit shirt in double extra small, Chest: 39, Body Length: 27.5, Sleeve Length: 9.25, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top resort fit shirt in extra small</pattern>
+    <template>For men's top resort fit shirt in extra small, Chest: 41, Body Length: 28, Sleeve Length: 9.5, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top resort fit shirt in small</pattern>
+    <template>For men's top resort fit shirt in small, Chest: 43, Body Length: 28.5, Sleeve Length: 9.75, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top resort fit shirt in medium</pattern>
+    <template>For men's top resort fit shirt in medium, Chest: 45, Body Length: 29, Sleeve Length: 10, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top resort fit shirt in large</pattern>
+    <template>For men's top resort fit shirt in large, Chest: 47, Body Length: 29.5, Sleeve Length: 10.25, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top resort fit shirt in extra large</pattern>
+    <template>For men's top resort fit shirt in extra large, Chest: 49, Body Length: 30, Sleeve Length: 10.5, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top resort fit shirt in double extra large</pattern>
+    <template>For men's top resort fit shirt in double extra large, Chest: 51, Body Length: 30.5, Sleeve Length: 10.75, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top long sleeve shirt in double extra small</pattern>
+    <template>For men's top long sleeve shirt in double extra small, Chest: 36, Body Length: 26, Sleeve Length: 24.75, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top long sleeve shirt in extra small</pattern>
+    <template>For men's top long sleeve shirt in extra small, Chest: 38, Body Length: 27, Sleeve Length: 25, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top long sleeve shirt in small</pattern>
+    <template>For men's top long sleeve shirt in small, Chest: 40, Body Length: 28, Sleeve Length: 25.25, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top long sleeve shirt in medium</pattern>
+    <template>For men's top long sleeve shirt in medium, Chest: 42, Body Length: 29, Sleeve Length: 25.5, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top long sleeve shirt in large</pattern>
+    <template>For men's top long sleeve shirt in large, Chest: 44, Body Length: 30, Sleeve Length: 25.75, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top long sleeve shirt in extra large</pattern>
+    <template>For men's top long sleeve shirt in extra large, Chest: 46, Body Length: 31, Sleeve Length: 26, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top long sleeve shirt in double extra large</pattern>
+    <template>For men's top long sleeve shirt in double extra large, Chest: 48, Body Length: 32, Sleeve Length: 26.25, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top long sleeve shirt in triple extra large</pattern>
+    <template>For men's top long sleeve shirt in triple extra large, Chest: 50, Body Length: 33, Sleeve Length: 26.5, USA: 24, EU: 58, and UK: 48.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie dropped shoulder shirt in double extra small</pattern>
+    <template>For men's top hoodie dropped shoulder shirt in double extra small, Chest: 44, Body Length: 25.5, Sleeve Length: 17.25, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie dropped shoulder shirt in extra small</pattern>
+    <template>For men's top hoodie dropped shoulder shirt in extra small, Chest: 46, Body Length: 26, Sleeve Length: 17.5, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie dropped shoulder shirt in small</pattern>
+    <template>For men's top hoodie dropped shoulder shirt in small, Chest: 48, Body Length: 26.5, Sleeve Length: 17.75, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie dropped shoulder shirt in medium</pattern>
+    <template>For men's top hoodie dropped shoulder shirt in medium, Chest: 50, Body Length: 27, Sleeve Length: 18, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie dropped shoulder shirt in large</pattern>
+    <template>For men's top hoodie dropped shoulder shirt in large, Chest: 52, Body Length: 27.5, Sleeve Length: 18.25, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie dropped shoulder shirt in extra large</pattern>
+    <template>For men's top hoodie dropped shoulder shirt in extra large, Chest: 54, Body Length: 28, Sleeve Length: 18.5, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie dropped shoulder shirt in double extra large</pattern>
+    <template>For men's top hoodie dropped shoulder shirt in double extra large, Chest: 56, Body Length: 28.5, Sleeve Length: 18.75, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie dropped shoulder shirt in triple extra large</pattern>
+    <template>For men's top hoodie dropped shoulder shirt in triple extra large, Chest: 58, Body Length: 29, Sleeve Length: 19, USA: 24, EU: 58, and UK: 48.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie set in shoulder shirt in double extra small</pattern>
+    <template>For men's top hoodie set-in shoulder shirt in double extra small, Chest: 38, Body Length: 25, Sleeve Length: 24.25, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie set in shoulder shirt in extra small</pattern>
+    <template>For men's top hoodie set-in shoulder shirt in extra small, Chest: 40, Body Length: 26, Sleeve Length: 24.5, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie set in shoulder shirt in small</pattern>
+    <template>For men's top hoodie set-in shoulder shirt in small, Chest: 42, Body Length: 27, Sleeve Length: 24.75, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie set in shoulder shirt in medium</pattern>
+    <template>For men's top hoodie set-in shoulder shirt in medium, Chest: 44, Body Length: 28, Sleeve Length: 25, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie set in shoulder shirt in large</pattern>
+    <template>For men's top hoodie set-in shoulder shirt in large, Chest: 46, Body Length: 29, Sleeve Length: 25.25, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie set in shoulder shirt in extra large</pattern>
+    <template>For men's top hoodie set-in shoulder shirt in extra large, Chest: 48, Body Length: 30, Sleeve Length: 25.5, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie set in shoulder shirt in double extra large</pattern>
+    <template>For men's top hoodie set-in shoulder shirt in double extra large, Chest: 50, Body Length: 31, Sleeve Length: 25.75, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top hoodie set in shoulder shirt in triple extra large</pattern>
+    <template>For men's top hoodie set-in shoulder shirt in triple extra large, Chest: 52, Body Length: 32, Sleeve Length: 26, USA: 24, EU: 58, and UK: 48.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top relax setin pullover shirt in double extra small</pattern>
+    <template>For men's top relax set-in pullover shirt in double extra small, Chest: 19, Body Length: 26, Sleeve Length: 24.25, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top relax set in pullover shirt in extra small</pattern>
+    <template>For men's top relax set-in pullover shirt in extra small, Chest: 20, Body Length: 27, Sleeve Length: 24.5, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top relax set in pullover shirt in small</pattern>
+    <template>For men's top relax set-in pullover shirt in small, Chest: 21, Body Length: 27, Sleeve Length: 24.75, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top relax set in pullover shirt in medium</pattern>
+    <template>For men's top relax set-in pullover shirt in medium, Chest: 22, Body Length: 28, Sleeve Length: 25, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top relax set in pullover shirt in large</pattern>
+    <template>For men's top relax set-in pullover shirt in large, Chest: 23, Body Length: 29, Sleeve Length: 25.25, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top relax set in pullover shirt in extra large</pattern>
+    <template>For men's top relax set-in pullover shirt in extra large, Chest: 24, Body Length: 30, Sleeve Length: 25.5, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top relax set in pullover shirt in double extra large</pattern>
+    <template>For men's top relax set-in pullover shirt in double extra large, Chest: 25, Body Length: 31, Sleeve Length: 25.75, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee easy fit shirt in double extra small</pattern>
+    <template>For men's tee easy fit shirt in double extra small, Chest: 18, Body Length: 26, Sleeve Length: 7.25, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee easy fit shirt in extra small</pattern>
+    <template>For men's tee easy fit shirt in extra small, Chest: 19, Body Length: 26, Sleeve Length: 7.5, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee easy fit shirt in small</pattern>
+    <template>For men's tee easy fit shirt in small, Chest: 20, Body Length: 27, Sleeve Length: 7.75, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee easy fit shirt in medium</pattern>
+    <template>For men's tee easy fit shirt in medium, Chest: 21, Body Length: 28, Sleeve Length: 8, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens tee easy fit shirt in large</pattern>
+    <template>For men's tee easy fit shirt in large, Chest: 22, Body Length: 29, Sleeve Length: 8.25, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee easy fit shirt in extra large</pattern>
+    <template>For men's tee easy fit shirt in extra large, Chest: 23, Body Length: 30, Sleeve Length: 8.5, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee easy fit shirt in double extra large</pattern>
+    <template>For men's tee easy fit shirt in double extra large, Chest: 24, Body Length: 31, Sleeve Length: 8.75, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top jersey with raglan sleeves shirt in double extra small</pattern>
+    <template>For men's top jersey with raglan sleeves shirt in double extra small, Chest: 36, Body Length: 25, Sleeve Length: 13.5, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top jersey with raglan sleeves shirt in extra small</pattern>
+    <template>For men's top jersey with raglan sleeves shirt in extra small, Chest: 38, Body Length: 26, Sleeve Length: 14, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top jersey with raglan sleeves shirt in small</pattern>
+    <template>For men's top jersey with raglan sleeves shirt in small, Chest: 40, Body Length: 27, Sleeve Length: 14.5, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top jersey with raglan sleeves shirt in medium</pattern>
+    <template>For men's top jersey with raglan sleeves shirt in medium, Chest: 42, Body Length: 28, Sleeve Length: 15, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top jersey with raglan sleeves shirt in large</pattern>
+    <template>For men's top jersey with raglan sleeves shirt in large, Chest: 44, Body Length: 29, Sleeve Length: 15.5, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top jersey with raglan sleeves shirt in extra large</pattern>
+    <template>For men's top jersey with raglan sleeves shirt in extra large, Chest: 46, Body Length: 30, Sleeve Length: 16, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top jersey with raglan sleeves shirt in double extra large</pattern>
+    <template>For men's top jersey with raglan sleeves shirt in double extra large, Chest: 48, Body Length: 31, Sleeve Length: 16.5, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top jersey with raglan sleeves shirt in triple extra large</pattern>
+    <template>For men's top jersey with raglan sleeves shirt in triple extra large, Chest: 50, Body Length: 32, Sleeve Length: 17, USA: 24, EU: 58, and UK: 48.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee slim fit shirt in double extra small</pattern>
+    <template>For men's tee slim fit shirt in double extra small, Chest: 17, Body Length: 25.5, Sleeve Length: 6.75, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee slim fit shirt in extra small</pattern>
+    <template>For men's tee slim fit shirt in extra small, Chest: 18, Body Length: 26, Sleeve Length: 7, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens tee slim fit shirt in small</pattern>
+    <template>For men's tee slim fit shirt in small, Chest: 19, Body Length: 26.5, Sleeve Length: 7.25, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee slim fit shirt in medium</pattern>
+    <template>For men's tee slim fit shirt in medium, Chest: 20, Body Length: 27, Sleeve Length: 7.5, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee slim fit shirt in large</pattern>
+    <template>For men's tee slim fit shirt in large, Chest: 21, Body Length: 27.5, Sleeve Length: 7.75, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee slim fit shirt in extra large</pattern>
+    <template>For men's tee slim fit shirt in extra large, Chest: 22, Body Length: 28, Sleeve Length: 8, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee slim fit shirt in double extra large</pattern>
+    <template>For men's tee slim fit shirt in double extra large, Chest: 23, Body Length: 28.5, Sleeve Length: 8.25, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee oversized fit shirt in double extra small</pattern>
+    <template>For men's tee oversized fit shirt in double extra small, Chest: 19, Body Length: 27, Sleeve Length: 8.5, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee oversized fit shirt in extra small</pattern>
+    <template>For men's tee oversized fit shirt in extra small, Chest: 20, Body Length: 28, Sleeve Length: 8.75, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee oversized fit shirt in small</pattern>
+    <template>For men's tee oversized fit shirt in small, Chest: 21, Body Length: 29, Sleeve Length: 9, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee oversized fit shirt in medium</pattern>
+    <template>For men's tee oversized fit shirt in medium, Chest: 22, Body Length: 30, Sleeve Length: 9.25, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>"What are the size and dimension possibilities for mens tee oversized fit shirt in large</pattern>
+    <template>For men's tee oversized fit shirt in large, Chest: 23, Body Length: 31, Sleeve Length: 9.5, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee oversized fit shirt in extra large</pattern>
+    <template>For men's tee oversized fit shirt in extra large, Chest: 24, Body Length: 32, Sleeve Length: 9.75, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tee oversized fit shirt in double extra large</pattern>
+    <template>For men's tee oversized fit shirt in double extra large, Chest: 25, Body Length: 33, Sleeve Length: 10, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top tank top shirt in double extra small</pattern>
+    <template>For men's top tank top shirt in double extra small, Chest: 36, Body Length: 26, Sleeve Length: N/A, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens top tank top shirt in extra small</pattern>
+    <template>For men's top tank top shirt in extra small, Chest: 38, Body Length: 27, Sleeve Length: N/A, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top tank top shirt in small</pattern>
+    <template>For men's top tank top shirt in small, Chest: 40, Body Length: 28, Sleeve Length: N/A, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top tank top shirt in medium</pattern>
+    <template>For men's top tank top shirt in medium, Chest: 42, Body Length: 29, Sleeve Length: N/A, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top tank top shirt in large</pattern>
+    <template>For men's top tank top shirt in large, Chest: 44, Body Length: 30, Sleeve Length: N/A, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top tank top shirt in extra large</pattern>
+    <template>For men's top tank top shirt in extra large, Chest: 46, Body Length: 31, Sleeve Length: N/A, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens top tank top shirt in double extra large</pattern>
+    <template>For men's top tank top shirt in double extra large, Chest: 48, Body Length: 32, Sleeve Length: N/A, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans skinny fit regular waist band in size 29</pattern>
+    <template>For men's jeans skinny fit (regular waist band) in size 29, Waist: 28, Hips: 34, Inseam: 28, USA: 38, EU: 38, and UK: 30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans skinny fit regular waist band in size 30</pattern>
+    <template>For men's jeans skinny fit (regular waist band) in size 30, Waist: 29, Hips: 35, Inseam: 28, USA: 39, EU: 39, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans skinny fit regular waist band in size 31</pattern>
+    <template>For men's jeans skinny fit (regular waist band) in size 31, Waist: 30, Hips: 36, Inseam: 28, USA: 40, EU: 40, and UK: 31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans skinny fit regular waist band in size 32</pattern>
+    <template>For men's jeans skinny fit (regular waist band) in size 32, Waist: 31, Hips: 37, Inseam: 29, USA: 42, EU: 42, and UK: 32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans skinny fit regular waist band in size 34</pattern>
+    <template>For men's jeans skinny fit (regular waist band) in size 34, Waist: 31, Hips: 37, Inseam: 29, USA: 42, EU: 42, and UK: 32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans slim fit regular waist band in size 29</pattern>
+    <template>For men's jeans slim fit (regular waist band) in size 29, Waist: 27, Hips: 36, Inseam: 28, USA: 38, EU: 38, and UK: 30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans slim fit regular waist band in size 30</pattern>
+    <template>For men's jeans slim fit (regular waist band) in size 30, Waist: 28, Hips: 37, Inseam: 28, USA: 39, EU: 39, and UK: 30-31.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens jeans slim fit regular waist band in size 30</pattern>
+    <template>For men's jeans slim fit (regular waist band) in size 30, Waist: 28, Hips: 37, Inseam: 28, USA: 39, EU: 39, and UK: 30-31.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans slim fit regular waist band in size 31</pattern>
+    <template>For men's jeans slim fit (regular waist band) in size 31, Waist: 29, Hips: 38, Inseam: 28, USA: 40, EU: 40, and UK: 31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans slim fit regular waist band in size 32</pattern>
+    <template>For men's jeans slim fit (regular waist band) in size 32, Waist: 30, Hips: 39, Inseam: 29, USA: 42, EU: 42, and UK: 32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans slim fit regular waist band in size 34</pattern>
+    <template>For men's jeans slim fit (regular waist band) in size 34, Waist: 32, Hips: 41, Inseam: 29, USA: 44, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans jogger pants garterized waist band in size extra small</pattern>
+    <template>For men's jeans jogger pants (garterized waist band) in size extra small, Waist: 28, Hips: 38, Inseam: 25, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans jogger pants garterized waist band in size small</pattern>
+    <template>For men's jeans jogger pants (garterized waist band) in size small, Waist: 30, Hips: 40, Inseam: 25, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans jogger pants garterized waist band in size medium</pattern>
+    <template>For men's jeans jogger pants (garterized waist band) in size medium, Waist: 32, Hips: 42, Inseam: 25, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans jogger pants garterized waist band in size large</pattern>
+    <template>For men's jeans jogger pants (garterized waist band) in size large, Waist: 34, Hips: 44, Inseam: 25, USA: 43-44, EU: 43-44, and UK: 33-34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens jeans jogger pants garterized waist band in size extra large</pattern>
+    <template>For men's jeans jogger pants (garterized waist band) in size extra large, Waist: 36, Hips: 46, Inseam: 25, USA: 45-46, EU: 45-46, and UK: 35-36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants woven regular waist band in size extra small</pattern>
+    <template>For men's tapered pants woven (regular waist band) in size extra small, Waist: 24, Hips: 37, Inseam: 25, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants woven regular waist band in size small</pattern>
+    <template>For men's tapered pants woven (regular waist band) in size small, Waist: 26, Hips: 39, Inseam: 25, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants woven regular waist band in size medium</pattern>
+    <template>For men's tapered pants woven (regular waist band) in size medium, Waist: 28, Hips: 41, Inseam: 25, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category> <!-- Dataset 150 -->
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants woven regular waist band in size large</pattern>
+    <template>For men's tapered pants woven (regular waist band) in size large, Waist: 30, Hips: 43, Inseam: 25, USA: 43-44, EU: 43-44, and UK: 33-34.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants woven regular waist band in size extra large</pattern>
+    <template>For men's tapered pants woven (regular waist band) in size extra large, Waist: 32, Hips: 45, Inseam: 25, USA: 45-46, EU: 45-46, and UK: 35-36.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants knit garterized waist band in size extra small</pattern>
+    <template>For men's tapered pants knit (garterized waist band) in size extra small, Waist: 26, Hips: 38, Inseam: 26, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants knit garterized waist band in size small</pattern>
+    <template>For men's tapered pants knit (garterized waist band) in size small, Waist: 28, Hips: 40, Inseam: 26, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants knit garterized waist band in size medium</pattern>
+    <template>For men's tapered pants knit (garterized waist band) in size medium, Waist: 30, Hips: 42, Inseam: 26, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants knit garterized waist band in size large</pattern>
+    <template>For men's tapered pants knit (garterized waist band) in size large, Waist: 32, Hips: 44, Inseam: 26, USA: 43-44, EU: 43-44, and UK: 33-34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants knit garterized waist band in size extra large</pattern>
+    <template>For men's tapered pants knit (garterized waist band) in size extra large, Waist: 34, Hips: 46, Inseam: 26, USA: 45-46, EU: 45-46, and UK: 35-36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants with cuff knit garterized waist band in size double extra small</pattern>
+    <template>For men's tapered pants with cuff-knit (garterized waist band) in size double extra small, Waist: 23, Hips: 36, Inseam: 25, USA: 32-34, EU: 32-34, and UK: 27-28.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants with cuff knit garterized waist band in size extra small</pattern>
+    <template>For men's tapered pants with cuff-knit (garterized waist band) in size extra small, Waist: 25, Hips: 38, Inseam: 25, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants with cuff knit garterized waist band in size small</pattern>
+    <template>For men's tapered pants with cuff-knit (garterized waist band) in size small, Waist: 27, Hips: 40, Inseam: 25, USA: 39-40, EU: 39-40 and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants with cuff knit garterized waist band in size medium</pattern>
+    <template>For men's tapered pants with cuff-knit (garterized waist band) in size medium, Waist: 29, Hips: 42, Inseam: 25, USA: 43-44, EU: 43-44 and UK: 31-32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants with cuff knit garterized waist band in size large</pattern>
+    <template>For men's tapered pants with cuff-knit (garterized waist band) in size large, Waist: 31, Hips: 44, Inseam: 25, USA: 43-44, EU: 43-44 and UK: 33-34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants with cuff knit garterized waist band in size extra large</pattern>
+    <template>For men's tapered pants with cuff-knit (garterized waist band) in size extra large, Waist: 33, Hips: 46, Inseam: 25, USA: 45-46, EU: 45-46 and UK: 35-36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens tapered pants with cuff knit garterized waist band in size double extra large</pattern>
+    <template>For men's tapered pants with cuff-knit (garterized waist band) in size double extra large, Waist: 35, Hips: 48, Inseam: 25, USA: 48-50, EU: 48-50 and UK: 37-38.</template>
+  </category>
+
+ <category>
+    <pattern>What are the size and dimension possibilities for mens urban shorts knit and woven garterized waist band in size extra small</pattern>
+    <template>For men's urban shorts - knit and woven (garterized waist band) in size extra small, Waist: 28, Hips: 40, Inseam: 5, USA: 36-38, EU: 36-38 and UK: 29-30.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens urban shorts knit and woven garterized waist band in size small</pattern>
+    <template>For men's urban shorts - knit and woven (garterized waist band) in size small, Waist: 30, Hips: 42, Inseam: 5, USA: 39-40, EU: 39-40 and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens urban shorts knit and woven garterized waist band in size medium</pattern>
+    <template>For men's urban shorts - knit  woven (garterized waist band) in size medium, Waist: 32, Hips: 44, Inseam: 5, USA: 40-42, EU: 40-42 and UK: 31-32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens urban shorts knit and woven garterized waist band in size large</pattern>
+    <template>For men's urban shorts - knit and woven (garterized waist band) in size large, Waist: 34, Hips: 46, Inseam: 5, USA: 43-44, EU: 43-44 and UK: 33-34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens urban shorts knit and woven garterized waist band in size extra large</pattern>
+    <template>For men's urban shorts - knit and woven (garterized waist band) in size extra large, Waist: 36, Hips: 48, Inseam: 5, USA: 45-46, EU: 45-46 and UK: 35-36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens chino shorts woven regular waist band in size 28</pattern>
+    <template>For men's chino shorts - woven (regular waist band) in size 28, Waist: 28, Hips: 38, Inseam: 5, USA: 36, EU: 36, and UK: 29.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens chino shorts woven regular waist band in size 29</pattern>
+    <template>For men's chino shorts - woven (regular waist band) in size 29, Waist: 29, Hips: 39, Inseam: 5, USA: 38, EU: 38, and UK: 30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens chino shorts woven regular waist band in size 30</pattern>
+    <template>For men's chino shorts - woven (regular waist band) in size 30, Waist: 30, Hips: 40, Inseam: 5, USA: 39, EU: 39, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens chino shorts woven regular waist band in size 31</pattern>
+    <template>For men's chino shorts - woven (regular waist band) in size 31, Waist: 31, Hips: 41, Inseam: 5, USA: 40, EU: 40, and UK: 31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens chino shorts woven regular waist band in size 32</pattern>
+    <template>For men's chino shorts - woven (regular waist band) in size 32, Waist: 32, Hips: 42, Inseam: 5, USA: 42, EU: 42, and UK: 32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens chino shorts woven regular waist band in size 34</pattern>
+    <template>For men's chino shorts - woven (regular waist band) in size 34, Waist: 34, Hips: 44, Inseam: 5, USA: 44, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens walk board shorts woven garterized waist band in size extra small</pattern>
+    <template>For men's walk/board shorts - woven (garterized waist band) in size extra small, Waist: 28, Hips: 41, Inseam: 4.5, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens walk board shorts woven garterized waist band in size small</pattern>
+    <template>For men's walk/board shorts - woven (garterized waist band) in size small, Waist: 30, Hips: 43, Inseam: 4.5, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens walk board shorts woven garterized waist band in size medium</pattern>
+    <template>For men's walk/board shorts - woven (garterized waist band) in size medium, Waist: 32, Hips: 45, Inseam: 4.5, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens walk board shorts woven garterized waist band in size large</pattern>
+    <template>For men's walk/board shorts - woven (garterized waist band) in size large, Waist: 34, Hips: 47, Inseam: 4.5, USA: 43-44, EU: 43-44, and UK: 33-34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens walk board shorts woven garterized waist band in size extra large</pattern>
+    <template>For men's walk/board shorts - woven (garterized waist band) in size extra large, Waist: 36, Hips: 49, Inseam: 4.5, USA: 45-46, EU: 45-46, and UK: 35-36.</template>
+  </category> <!-- Dataset 180 -->
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens boxer shorts garterized waist band in size double extra small</pattern>
+    <template>For men's boxer shorts (garterized waist band) in size double extra small, Waist: 20, Hips: 35, Inseam: 3.25, USA: 32, EU: 42, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens boxer shorts garterized waist band in size extra small</pattern>
+    <template>For men's boxer shorts (garterized waist band) in size extra small, Waist: 22, Hips: 36, Inseam: 3.25, USA: 34, EU: 44, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens boxer shorts garterized waist band in size small</pattern>
+    <template>For men's boxer shorts (garterized waist band) in size small, Waist: 24, Hips: 38, Inseam: 3.5, USA: 36, EU: 46, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens boxer shorts garterized waist band in size medium</pattern>
+    <template>For men's boxer shorts (garterized waist band) in size medium, Waist: 26, Hips: 40, Inseam: 3.5, USA: 38, EU: 48, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens boxer shorts garterized waist band in size large</pattern>
+    <template>For men's boxer shorts (garterized waist band) in size large, Waist: 28, Hips: 42, Inseam: 3.75, USA: 40, EU: 50, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens boxer shorts garterized waist band in size extra large</pattern>
+    <template>For men's boxer shorts (garterized waist band) in size extra large, Waist: 30, Hips: 44, Inseam: 3.75, USA: 42, EU: 52, and UK: 18.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens boxer shorts garterized waist band in size double extra large</pattern>
+    <template>For men's boxer shorts (garterized waist band) in size double extra large, Waist: 32, Hips: 46, Inseam: 3.75, USA: 44, EU: 54, and UK: 20.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge robe in size small</pattern>
+    <template>For men's lounge - robe in size small, Waist: 44, Hips: 40, Inseam: 19.5, USA: 12-16, EU: 46-50, and UK: 36-40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge robe in size medium</pattern>
+    <template>For men's lounge - robe in size medium, Waist: 48, Hips: 42, Inseam: 19.5, USA: 18-20, EU: 52-54, and UK: 42-44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set top slim fit in size double extra small</pattern>
+    <template>For men's lounge set - top slim fit in size double extra small, Waist: 34, Hips: 25.5, Inseam: 6.75, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+<category>
+    <pattern>What are the size and dimension possibilities for mens lounge set top slim fit in size extra small</pattern>
+    <template>For men's lounge set - top slim fit in size extra small, Waist: 36, Hips: 26, Inseam: 7, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set top slim fit in size small</pattern>
+    <template>For men's lounge set - top slim fit in size small, Waist: 38, Hips: 26.5, Inseam: 7.25, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set top slim fit in size medium</pattern>
+    <template>For men's lounge set - top slim fit in size medium, Waist: 40, Hips: 27, Inseam: 7.5, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set top slim fit in size large</pattern>
+    <template>For men's lounge set - top slim fit in size large, Waist: 42, Hips: 27.5, Inseam: 7.75, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set top slim fit in size extra large</pattern>
+    <template>For men's lounge set - top slim fit in size extra large, Waist: 44, Hips: 28, Inseam: 8, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set top slim fit in size double extra large</pattern>
+    <template>For men's lounge set - top slim fit in size double extra large, Waist: 46, Hips: 28.5, Inseam: 8.25, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set bottom boxer shorts in size double extra small</pattern>
+    <template>For men's lounge set - bottom boxer shorts in size double extra small, Waist: 20, Hips: 36, Inseam: 3.25, USA: 33-35, EU: 33-35, and UK: 27-28.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set bottom boxer shorts in size extra small</pattern>
+    <template>For men's lounge set - bottom boxer shorts in size extra small, Waist: 22, Hips: 38, Inseam: 3.25, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set bottom boxer shorts in size small</pattern>
+    <template>For men's lounge set - bottom boxer shorts in size small, Waist: 24, Hips: 40, Inseam: 3.5, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set bottom boxer shorts in size medium</pattern>
+    <template>For men's lounge set - bottom boxer shorts in size medium, Waist: 26, Hips: 42, Inseam: 3.5, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category> <!-- Dataset 200 -->
+
+  <category>
+    <pattern>"What are the size and dimension possibilities for mens lounge set bottom boxer shorts in size large</pattern>
+    <template>For men's lounge set - bottom boxer shorts in size large, Waist: 28, Hips: 44, Inseam: 3.75, USA: 43-44, EU: 43-44, and UK: 33-34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set bottom boxer shorts in size extra large</pattern>
+    <template>For men's lounge set - bottom boxer shorts in size extra large, Waist: 30, Hips: 46, Inseam: 3.75, USA: 45-46, EU: 45-46, and UK: 35-36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lounge set bottom boxer shorts in size double extra large</pattern>
+    <template>For men's lounge set - bottom boxer shorts in size double extra large, Waist: 32, Hips: 48, Inseam: 3.75, USA: 47-48, EU: 47-48, and UK: 37-38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens footwear sliders unisex in size small</pattern>
+    <template>For men's footwear sliders unisex in size small, Ladies' US Size: 5, Men's US Size: N/A, Footbed Length: 23.5cm.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens footwear sliders unisex in size medium</pattern>
+    <template>For men's footwear sliders unisex in size medium, Ladies' US Size: 6-7, Men's US Size: N/A, Footbed Length: 24.9cm.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens footwear sliders unisex in size large</pattern>
+    <template>For men's footwear sliders unisex in size large, Ladies' US Size: 8-9, Men's US Size: 6, Footbed Length: 26.3cm.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens footwear sliders unisex in size extra large</pattern>
+    <template>For men's footwear sliders unisex in size extra large, Ladies' US Size: N/A, Men's US Size: 7-8, Footbed Length: 27.5cm.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens footwear sliders unisex in size double extra large</pattern>
+    <template>For men's footwear sliders unisex in size double extra large, Ladies' US Size: N/A, Men's US Size: 9-10, Footbed Length: 28.9cm.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens footwear single band sliders</pattern>
+    <template>For men's footwear single band sliders, (US: 6, EU: 39, CM: 26.1), (US: 7, EU: 40, CM: 26.8), (US: 8, EU: 41, CM: 27.5), (US: 9, EU: 42, CM: 28.2), (US: 10, EU: 43, CM: 28.9).</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens footwear velcro sliders</pattern>
+    <template>For men's footwear velcro sliders, (US: 6, EU: 39, CM: 26.1), (US: 7, EU: 40, CM: 26.8), (US: 8, EU: 41, CM: 27.5), (US: 9, EU: 42, CM: 28.2), (US: 10, EU: 43, CM: 28.5).</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens regular flipflops</pattern>
+    <template>For men's regular flipflops, (US: 6, EU: 39, CM: 26.6), (US: 7, EU: 40, CM: 27.3), (US: 8, EU: 41, CM: 28), (US: 9, EU: 42, CM: 28.7), (US: 10, EU: 43, CM: 29.4), then the slippers thicknes is 15mm.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lace up sneakers</pattern>
+    <template>For men's lace-up sneakers, (US: 6, EU: 39, CM: 26.5), (US: 7, EU: 40, CM: 27), (US: 8, EU: 41, CM: 27.5), (US: 9, EU: 42, CM: 28), (US: 10, EU: 43, CM: 28.5).</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for mens lace up runner shoes</pattern>
+    <template>For men's lace-up runner shoes, (US: 6, EU: 39, CM: 26.5), (US: 7, EU: 40, CM: 27), (US: 8, EU: 41, CM: 27.5), (US: 9, EU: 42, CM: 28), (US: 10, EU: 43, CM: 28.5).</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee regular fit in size extra small</pattern>
+    <template>For ladies' top tee - regular fit in size extra small, Chest: 34, Body Length: 22.5, Sleeve Length: 7, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee regular fit in size small</pattern>
+    <template>For ladies' top tee - regular fit in size small, Chest: 36, Body Length: 23, Sleeve Length: 7.25, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee regular fit in size medium</pattern>
+    <template>For ladies' top tee - regular fit in size medium, Chest: 38, Body Length: 23.5, Sleeve Length: 7.5, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee regular fit in size large</pattern>
+    <template>For ladies' top tee - regular fit in size large, Chest: 40, Body Length: 24, Sleeve Length: 7.75, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee regular fit in size extra large</pattern>
+    <template>For ladies' top tee - regular fit in size extra large, Chest: 42, Body Length: 24.5, Sleeve Length: 8, USA: 10, EU: 42, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee boxy fit in size extra small</pattern>
+    <template>For ladies' top tee - boxy fit in size extra small, Chest: 39, Body Length: 19, Sleeve Length: 7.75, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee boxy fit in size small</pattern>
+    <template>For ladies' top tee - boxy fit in size small, Chest: 41, Body Length: 19.5, Sleeve Length: 8, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee boxy fit in medium</pattern>
+    <template>For ladies' top tee - boxy fit in size medium, Chest: 43, Body Length: 20, Sleeve Length: 8.25, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee boxy fit in size large</pattern>
+    <template>For ladies' top tee - boxy fit in size large, Chest: 45, Body Length: 20.5, Sleeve Length: 8.5, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee boxy fit in size extra large</pattern>
+    <template>For ladies' top tee - boxy fit in size extra large, Chest: 47, Body Length: 21, Sleeve Length: 8.75, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies vneck slim fit in size extra small</pattern>
+    <template>For ladies' v-neck - slim fit in size extra small, Chest: 31, Body Length: 22.5, Sleeve Length: 7.25, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies vneck slim fit in size small</pattern>
+    <template>For ladies' v-neck - slim fit in size small, Chest: 33, Body Length: 23, Sleeve Length: 7.5, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies vneck slim fit in size medium</pattern>
+    <template>For ladies' v-neck - slim fit in size medium, Chest: 35, Body Length: 23.5, Sleeve Length: 7.75, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies vneck slim fit in size large</pattern>
+    <template>For ladies' v-neck - slim fit in size large, Chest: 37, Body Length: 24, Sleeve Length: 8, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies vneck slim fit in size extra large</pattern>
+    <template>For ladies' v-neck - slim fit in size extra large, Chest: 39, Body Length: 24.5, Sleeve Length: 8.25, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies rib slim fit tee in size extra small</pattern>
+    <template>For ladies' rib slim fit tee in size extra small, Chest: 28, Body Length: 22.5, Sleeve Length: 7.75, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies rib slim fit tee in size small</pattern>
+    <template>For ladies' rib slim fit tee in size small, Chest: 30, Body Length: 23, Sleeve Length: 8, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies rib slim fit tee in size medium</pattern>
+    <template>For ladies' rib slim fit tee in size medium, Chest: 30, Body Length: 23, Sleeve Length: 8, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies rib slim fit tee in size large</pattern>
+    <template>For ladies' rib slim fit tee in size large, Chest: 34, Body Length: 24, Sleeve Length: 8.5, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies rib slim fit tee in size extra large</pattern>
+    <template>For ladies' rib slim fit tee in size extra large, Chest: 36, Body Length: 24.5, Sleeve Length: 8.75, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies slim fit bundle tees in size extra small</pattern>
+    <template>For ladies' slim fit bundle tees in size extra small, Chest: 30, Body Length: 23, Sleeve Length: 4.75, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+   <category>
+    <pattern>What are the size and dimension possibilities for ladies slim fit bundle tees in size small</pattern>
+    <template>For ladies' slim fit bundle tees in size small, Chest: 32, Body Length: 23.5, Sleeve Length: 5, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies slim fit bundle tees in size medium</pattern>
+    <template>For ladies' slim fit bundle tees in size medium, Chest: 34, Body Length: 24, Sleeve Length: 5.25, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+   <category>
+    <pattern>What are the size and dimension possibilities for ladies slim fit bundle tees in size large</pattern>
+    <template>For ladies' slim fit bundle tees in size large, Chest: 36, Body Length: 24.5, Sleeve Length: 5.5, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies slim fit bundle tees in size extra large</pattern>
+    <template>For ladies' slim fit bundle tees in size extra large, Chest: 38, Body Length: 25, Sleeve Length: 5.75, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee oversized fit in size extra small</pattern>
+    <template>For ladies' top tee oversized fit in size extra small, Chest: 38, Body Length: 24, Sleeve Length: 7.75, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee oversized fit in size small</pattern>
+    <template>For ladies' top tee oversized fit in size small, Chest: 40, Body Length: 24.5 , Sleeve Length: 8, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee oversized fit in size medium</pattern>
+    <template>For ladies' top tee oversized fit in size medium, Chest: 42, Body Length: 25 , Sleeve Length: 8.25, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee oversized fit in size large</pattern>
+    <template>For ladies' top tee oversized fit in size large, Chest: 44, Body Length: 25.5, Sleeve Length: 8.5, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top tee oversized fit in size extra large</pattern>
+    <template>For ladies' top tee oversized fit in size extra large, Chest: 46, Body Length: 26, Sleeve Length: 8.75, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top shirt short sleeves in size extra small</pattern>
+    <template>For ladies' top shirt - short sleeves in size extra small, Chest: 40, Body Length: 20.5, Sleeve Length: 7.5, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top shirt short sleeves in size small</pattern>
+    <template>For ladies' top shirt - short sleeves in size small, Chest: 42, Body Length: 21, Sleeve Length: 7.75, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top shirt short sleeves in size medium</pattern>
+    <template>For ladies' top shirt - short sleeves in size medium, Chest: 44, Body Length: 21.5, Sleeve Length: 8, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top shirt short sleeves in size large</pattern>
+    <template>For ladies' top shirt - short sleeves in size large, Chest: 46, Body Length: 22, Sleeve Length: 8.25, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top shirt short sleeves in size extra large</pattern>
+    <template>For ladies' top shirt - short sleeves in size extra large, Chest: 48, Body Length: 22.5, Sleeve Length: 8.5, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top shirt long sleeves in size extra small</pattern>
+    <template>For ladies' top shirt - long sleeves in size extra small, Chest: 40, Body Length: 27.5, Sleeve Length: 20.5, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies top shirt long sleeves in size small</pattern>
+    <template>For ladies' top shirt - long sleeves in size small, Chest: 42, Body Length: 28, Sleeve Length: 20.75, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top shirt - long sleeves in size medium</pattern>
+    <template>For ladies' top shirt - long sleeves in size medium, Chest: 44, Body Length: 28.5, Sleeve Length: 21, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top shirt - long sleeves in size large</pattern>
+    <template>For ladies' top shirt - long sleeves in size large, Chest: 46, Body Length: 29, Sleeve Length: 21.25, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top shirt - long sleeves in size extra large</pattern>
+    <template>For ladies' top shirt - long sleeves in size extra large, Chest: 48, Body Length: 29.5, Sleeve Length: 21.5, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - sports bra in size extra small</pattern>
+    <template>For ladies' top - sports bra in size extra small, Chest: 28, Body Length: 9, Sleeve Length: N/A, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - sports bra in size small</pattern>
+    <template>For ladies' top - sports bra in size small, Chest: 30, Body Length: 9.5, Sleeve Length: N/A, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - sports bra in size medium</pattern>
+    <template>For ladies' top - sports bra in size medium, Chest: 32, Body Length: 10, Sleeve Length: N/A, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - sports bra in size large</pattern>
+    <template>For ladies' top - sports bra in size large, Chest: 34, Body Length: 10.5, Sleeve Length: N/A, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - sports bra in size extra large</pattern>
+    <template>For ladies' top - sports bra in size extra large, Chest: 36, Body Length: 11, Sleeve Length: N/A, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - hoodie in size extra small</pattern>
+    <template>For ladies' top - hoodie in size extra small, Chest: 44, Body Length: 24.5, Sleeve Length: 17.5, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - hoodie in size small</pattern>
+    <template>For ladies' top - hoodie in size small, Chest: 46, Body Length: 25, Sleeve Length: 17.75, USA: 4, EU: 32, and UK: 8.</template>
+  </category> <!-- Dataset 260 -->
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - hoodie in size medium</pattern>
+    <template>For ladies' top - hoodie in size medium, Chest: 48, Body Length: 25.5, Sleeve Length: 18, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - hoodie in size large</pattern>
+    <template>For ladies' top - hoodie in size large, Chest: 50, Body Length: 26, Sleeve Length: 18.25, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - hoodie in size extra large</pattern>
+    <template>For ladies' top - hoodie in size extra large, Chest: 52, Body Length: 26.5, Sleeve Length: 18.5, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - crop pullover in size extra small</pattern>
+    <template>For ladies' top - crop pullover in size extra small, Chest: 36, Body Length: 17.5, Sleeve Length: 18.75, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - crop pullover in size small</pattern>
+    <template>For ladies' top - crop pullover in size small, Chest: 38, Body Length: 18, Sleeve Length: 19, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - crop pullover in size medium</pattern>
+    <template>For ladies' top - crop pullover in size medium, Chest: 40, Body Length: 18.5, Sleeve Length: 19.25, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - crop pullover in size large</pattern>
+    <template>For ladies' top - crop pullover in size large, Chest: 42, Body Length: 19, Sleeve Length: 19.5, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - crop pullover in size extra large</pattern>
+    <template>What are the size and dimension possibilities for ladies' top - crop pullover in size extra large</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - regular pullover in size extra small</pattern>
+    <template>For ladies' top - regular pullover in size extra small, Chest: 38, Body Length: 25.5, Sleeve Length: 20.75, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - regular pullover in size small</pattern>
+    <template>For ladies' top - regular pullover in size small, Chest: 40, Body Length: 26, Sleeve Length: 21, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - regular pullover in size medium</pattern>
+    <template>For ladies' top - regular pullover in size medium, Chest: 42, Body Length: 26.5, Sleeve Length: 21.25, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - regular pullover in size large</pattern>
+    <template>For ladies' top - regular pullover in size large, Chest: 44, Body Length: 27, Sleeve Length: 21.5, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' top - regular pullover in size extra large</pattern>
+    <template>For ladies' top - regular pullover in size extra large, Chest: 46, Body Length: 27.5, Sleeve Length: 21.75, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - regular fit in size extra small</pattern>
+    <template>For ladies' dress - regular fit in size extra small, Chest: 33, Body Length: 32.5, Sleeve Length: 7, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - regular fit in size small</pattern>
+    <template>For ladies' dress - regular fit in size small, Chest: 35, Body Length: 33, Sleeve Length: 7.25, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - regular fit in size medium</pattern>
+    <template>For ladies' dress - regular fit in size medium, Chest: 37, Body Length: 33.5, Sleeve Length: 7.5, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - regular fit in size large</pattern>
+    <template>For ladies' dress - regular fit in size large, Chest: 39, Body Length: 34, Sleeve Length: 7.75, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - regular fit in size extra large</pattern>
+    <template>For ladies' dress - regular fit in size extra large, Chest: 41, Body Length: 34.5, Sleeve Length: 8, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - oversized fit in size extra small</pattern>
+    <template>For ladies' dress - oversized fit in size extra small, Chest: 38, Body Length: 33, Sleeve Length: 8.5, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - oversized fit in size small</pattern>
+    <template>For ladies' dress - oversized fit in size small, Chest: 40, Body Length: 33.5, Sleeve Length: 8.75, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - oversized fit in size medium</pattern>
+    <template>For ladies' dress - oversized fit in size medium, Chest: 42, Body Length: 34, Sleeve Length: 9, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - oversized fit in size large</pattern>
+    <template>For ladies' dress - oversized fit in size large, Chest: 44, Body Length: 34.5, Sleeve Length: 9.25, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - oversized fit in size extra large</pattern>
+    <template>For ladies' dress - oversized fit in size extra large, Chest: 46, Body Length: 35, Sleeve Length: 9.5, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - long sleeved regular fit in size extra small</pattern>
+    <template>For ladies' dress - long sleeved regular fit in size extra small, Chest: 38, Body Length: 32, Sleeve Length: 20, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+   <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - long sleeved regular fit in size small</pattern>
+    <template>For ladies' dress - long sleeved regular fit in size small, Chest: 40, Body Length: 32.5, Sleeve Length: 20.25, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - long sleeved regular fit in size medium</pattern>
+    <template>For ladies' dress - long sleeved regular fit in size medium, Chest: 42, Body Length: 33, Sleeve Length: 20.5, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - long sleeved regular fit in size large</pattern>
+    <template>For ladies' dress - long sleeved regular fit in size large, Chest: 44, Body Length: 33.5, Sleeve Length: 20.75, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - long sleeved regular fit in size extra large</pattern>
+    <template>For ladies' dress - long sleeved regular fit in size extra large, Chest: 46, Body Length: 34, Sleeve Length: 21, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - baby doll dress in size extra small</pattern>
+    <template>For ladies' dress - baby doll dress in size extra small, Chest: 33, Body Length: 31, Sleeve Length: 7.75, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - baby doll dress in size small</pattern>
+    <template>For ladies' dress - baby doll dress in size small, Chest: 35, Body Length: 31.5, Sleeve Length: 8, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - baby doll dress in size medium</pattern>
+    <template>For ladies' dress - baby doll dress in size medium, Chest: 37, Body Length: 32, Sleeve Length: 8.25, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - baby doll dress in size large</pattern>
+    <template>For ladies' dress - baby doll dress in size large, Chest: 39, Body Length: 32.5, Sleeve Length: 8.5, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' dress - baby doll dress in size extra large</pattern>
+    <template>For ladies' dress - baby doll dress in size extra large, Chest: 41, Body Length: 33, Sleeve Length: 8.75, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (numerical sizing) in size 26</pattern>
+    <template>For ladies' bottoms - skinny jeans (numerical sizing) in size 26, Waist: 26, Hip: 32,  Inseam: 26, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (numerical sizing) in size 27</pattern>
+    <template>For ladies' bottoms - skinny jeans (numerical sizing) in size 27, Waist: 27, Hip: 33,  Inseam: 26, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (numerical sizing) in size 28</pattern>
+    <template>For ladies' bottoms - skinny jeans (numerical sizing) in size 28, Waist: 28, Hip: 34,  Inseam: 26, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (numerical sizing) in size 29</pattern>
+    <template>For ladies' bottoms - skinny jeans (numerical sizing) in size 29, Waist: 29, Hip: 35,  Inseam: 26, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (numerical sizing) in size 30</pattern>
+    <template>For ladies' bottoms - skinny jeans (numerical sizing) in size 30, Waist: 30, Hip: 36,  Inseam: 26, USA: 10, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (numerical sizing) in size 32</pattern>
+    <template>For ladies' bottoms - skinny jeans (numerical sizing) in size 32, Waist: 32, Hip: 38,  Inseam: 26, USA: 12, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (alpha sizing) in size extra small</pattern>
+    <template>For ladies' bottoms - skinny jeans (alpha sizing) in size extra small, Waist: 24, Hip: 36,  Inseam: 27, USA: 4, EU: 32, and UK: 8.</template>
+  </category> <!-- Dataset 300 -->
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (alpha sizing) in size small</pattern>
+    <template>For ladies' bottoms - skinny jeans (alpha sizing) in size small, Waist: 26, Hip: 38, Inseam: 27, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (alpha sizing) in size medium</pattern>
+    <template>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (alpha sizing) in size medium</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (alpha sizing) in size large</pattern>
+    <template>For ladies' bottoms - skinny jeans (alpha sizing) in size large, Waist: 30, Hip: 42, Inseam: 27, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - skinny jeans (alpha sizing) in size extra large</pattern>
+    <template>For ladies' bottoms - skinny jeans (alpha sizing) in size extra large, Waist: 32, Hip: 44, Inseam: 27, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - basic straight jeans (numerical sizing) in size 26</pattern>
+    <template>For ladies' bottoms - basic straight jeans (numerical sizing) in size 26, Waist: 26, Hip: 36, Inseam: 27, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - basic straight jeans (numerical sizing) in size 27</pattern>
+    <template>For ladies' bottoms - basic straight jeans (numerical sizing) in size 27, Waist: 27, Hip: 37, Inseam: 27, USA: 6, EU: 36, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - basic straight jeans (numerical sizing) in size 28</pattern>
+    <template>For ladies' bottoms - basic straight jeans (numerical sizing) in size 28, Waist: 28, Hip: 38, Inseam: 27, USA: 6, EU: 38, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - basic straight jeans (numerical sizing) in size 29</pattern>
+    <template>For ladies' bottoms - basic straight jeans (numerical sizing) in size 29, Waist: 39, Hip: 39, Inseam: 27, USA: 10, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - basic straight jeans (numerical sizing) in size 30</pattern>
+    <template>For ladies' bottoms - basic straight jeans (numerical sizing) in size 30, Waist: 30, Hip: 40, Inseam: 27, USA: 10, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - basic straight jeans (numerical sizing) in size 32</pattern>
+    <template>For ladies' bottoms - basic straight jeans (numerical sizing) in size 32, Waist: 32, Hip: 42, Inseam: 27, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (alpha sizing) in size extra small</pattern>
+    <template>For ladies' bottoms - wide leg jeans (alpha sizing) in size extra small, Waist: 24, Hip: 34, Inseam: 27, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (alpha sizing) in size small</pattern>
+    <template>For ladies' bottoms - wide leg jeans (alpha sizing) in size small, Waist: 26, Hip: 36, Inseam: 27, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (alpha sizing) in size medium</pattern>
+    <template>For ladies' bottoms - wide leg jeans (alpha sizing) in size medium, Waist: 28, Hip: 38, Inseam: 27, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (alpha sizing) in size large</pattern>
+    <template>For ladies' bottoms - wide leg jeans (alpha sizing) in size large, Waist: 30, Hip: 40, Inseam: 27, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (alpha sizing) in size extra large</pattern>
+    <template>For ladies' bottoms - wide leg jeans (alpha sizing) in size extra large, Waist: 32, Hip: 42, Inseam: 27, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (numeiracal sizing) in size 26</pattern>
+    <template>For ladies' bottoms - wide leg jeans (numeiracal sizing) in size 26, Waist: 25, Hip: 36.5, Inseam: 27, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (numeiracal sizing) in size 27</pattern>
+    <template>For ladies' bottoms - wide leg jeans (numeiracal sizing) in size 27, Waist: 26, Hip: 37.5, Inseam: 27, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (numeiracal sizing) in size 28</pattern>
+    <template>For ladies' bottoms - wide leg jeans (numeiracal sizing) in size 28, Waist: 27, Hip: 38.5, Inseam: 27, USA: 6, EU: 38, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (numeiracal sizing) in size 29</pattern>
+    <template>For ladies' bottoms - wide leg jeans (numeiracal sizing) in size 29, Waist: 28, Hip: 39.5, Inseam: 27, USA: 10, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (numeiracal sizing) in size 30</pattern>
+    <template>For ladies' bottoms - wide leg jeans (numeiracal sizing) in size 30, Waist: 29, Hip: 40.5, Inseam: 27, USA: 10, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - wide leg jeans (numeiracal sizing) in size 32</pattern>
+    <template>For ladies' bottoms - wide leg jeans (numeiracal sizing) in size 32, Waist: 31, Hip: 42.5, Inseam: 27, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (alpha sizing) in size extra small</pattern>
+    <template>For ladies' bottoms - shorts (alpha sizing) in size extra small, Waist: 26, Hip: 36, Inseam: 2.5, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (alpha sizing) in size small</pattern>
+    <template>For ladies' bottoms - shorts (alpha sizing) in size small, Waist: 28, Hip: 38, Inseam: 2.5, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (alpha sizing) in size medium</pattern>
+    <template>For ladies' bottoms - shorts (alpha sizing) in size medium, Waist: 30, Hip: 40, Inseam: 2.5, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (alpha sizing) in size large</pattern>
+    <template>For ladies' bottoms - shorts (alpha sizing) in size large, Waist: 32, Hip: 42, Inseam: 2.5, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (alpha sizing) in size extra large</pattern>
+    <template>For ladies' bottoms - shorts (alpha sizing) in size extra large, Waist: 34, Hip: 44, Inseam: 2.5, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (numerical sizing) in size 26</pattern>
+    <template>For ladies' bottoms - shorts (numerical sizing) in size 26, Waist: 26, Hip: 36, Inseam: 2.5, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (numerical sizing) in size 27</pattern>
+    <template>For ladies' bottoms - shorts (numerical sizing) in size 27, Waist: 27, Hip: 37, Inseam: 2.5, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (numerical sizing) in size 28</pattern>
+    <template>For ladies' bottoms - shorts (numerical sizing) in size 28, Waist: 28, Hip: 38, Inseam: 2.5, USA: 6, EU: 38, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (numerical sizing) in size 29</pattern>
+    <template>For ladies' bottoms - shorts (numerical sizing) in size 29, Waist: 29, Hip: 39, Inseam: 2.5, USA: 10, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (numerical sizing) in size 30</pattern>
+    <template>For ladies' bottoms - shorts (numerical sizing) in size 30, Waist: 30, Hip: 40, Inseam: 2.5, USA: 10, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - shorts (numerical sizing) in size 32</pattern>
+    <template>For ladies' bottoms - shorts (numerical sizing) in size 32, Waist: 32, Hip: 42, Inseam: 2.5, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - biker shorts (alpha sizing) in size extra small</pattern>
+    <template>For ladies' bottoms - biker shorts (alpha sizing) in size extra small, Waist: 25, Hip: 28, Inseam: 10, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - biker shorts (alpha sizing) in size small</pattern>
+    <template>For ladies' bottoms - biker shorts (alpha sizing) in size small, Waist: 27, Hip: 30, Inseam: 10, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - biker shorts (alpha sizing) in size medium</pattern>
+    <template>For ladies' bottoms - biker shorts (alpha sizing) in size medium, Waist: 29, Hip: 32, Inseam: 10, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - biker shorts (alpha sizing) in size large</pattern>
+    <template>For ladies' bottoms - biker shorts (alpha sizing) in size large, Waist: 31, Hip: 34, Inseam: 10, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - biker shorts (alpha sizing) in size extra large</pattern>
+    <template>For ladies' bottoms - biker shorts (alpha sizing) in size extra large, Waist: 33, Hip: 36, Inseam: 10, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - sports leggings with side pockets (alpha sizing) in size extra small</pattern>
+    <template>For ladies' bottoms - sports leggings with side pockets (alpha sizing) in size extra small, Waist: 23, Hip: 25, Inseam: 26, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - sports leggings with side pockets (alpha sizing) in size small</pattern>
+    <template>For ladies' bottoms - sports leggings with side pockets (alpha sizing) in size small, Waist: 25, Hip: 27, Inseam: 26, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - sports leggings with side pockets (alpha sizing) in size medium</pattern>
+    <template>For ladies' bottoms - sports leggings with side pockets (alpha sizing) in size medium, Waist: 27, Hip: 29, Inseam: 26, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - sports leggings with side pockets (alpha sizing) in size large</pattern>
+    <template>For ladies' bottoms - sports leggings with side pockets (alpha sizing) in size large, Waist: 29, Hip: 31, Inseam: 26, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - sports leggings with side pockets (alpha sizing) in size extra large</pattern>
+    <template>For ladies' bottoms - sports leggings with side pockets (alpha sizing) in size extra large, Waist: 31, Hip: 33, Inseam: 26, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - sports leggings without pockets (alpha sizing) in size extra small</pattern>
+    <template>For ladies' bottoms - sports leggings without pockets (alpha sizing) in size extra small, Waist: 25, Hip: 28, Inseam: 26.5, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - sports leggings without pockets (alpha sizing) in size small</pattern>
+    <template>For ladies' bottoms - sports leggings without pockets (alpha sizing) in size small, Waist: 25, Hip: 28, Inseam: 26.5, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - sports leggings without pockets (alpha sizing) in size medium</pattern>
+    <template>For ladies' bottoms - sports leggings without pockets (alpha sizing) in size medium, Waist: 29, Hip: 32, Inseam: 26.5, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - sports leggings without pockets (alpha sizing) in size large</pattern>
+    <template>For ladies' bottoms - sports leggings without pockets (alpha sizing) in size large, Waist: 31, Hip: 34, Inseam: 26.5, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - sports leggings without pockets (alpha sizing) in size extra large</pattern>
+    <template>For ladies' bottoms - sports leggings without pockets (alpha sizing) in size extra large, Waist: 33, Hip: 36, Inseam: 26.5, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants (mid-waist) in size extra small</pattern>
+    <template>For ladies' bottoms - track pants (mid-waist) in size extra small, Waist: 23, Hip: 35, Inseam: 27, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants (mid-waist) in size small</pattern>
+    <template>For ladies' bottoms - track pants (mid-waist) in size small, Waist: 25, Hip: 37, Inseam: 27, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants (mid-waist) in size medium</pattern>
+    <template>For ladies' bottoms - track pants (mid-waist) in size medium, Waist: 27, Hip: 39, Inseam: 27, USA: 6, EU: 38, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants (mid-waist) in size large</pattern>
+    <template>For ladies' bottoms - track pants (mid-waist) in size large, Waist: 29, Hip: 41, Inseam: 27, USA: 10, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants (mid-waist) in size extra large</pattern>
+    <template>For ladies' bottoms - track pants (mid-waist) in size extra large, Waist: 31, Hip: 43, Inseam: 27, USA: 10, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants (high-waist) in size extra small</pattern>
+    <template>For ladies' bottoms - track pants (high-waist) in size extra small, Waist: 21, Hip: 35, Inseam: 27, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants (high-waist) in size small</pattern>
+    <template>For ladies' bottoms - track pants (high-waist) in size small, Waist: 23, Hip: 37, Inseam: 27, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants (high-waist) in size medium</pattern>
+    <template>For ladies' bottoms - track pants (high-waist) in size medium, Waist: 25, Hip: 39, Inseam: 27, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants (high-waist) in size large</pattern>
+    <template>For ladies' bottoms - track pants (high-waist) in size large, Waist: 27, Hip: 41, Inseam: 27, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants (high-waist) in size extra large</pattern>
+    <template>For ladies' bottoms - track pants (high-waist) in size extra large, Waist: 29, Hip: 43, Inseam: 27, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants with cuff in size extra small</pattern>
+    <template>For ladies' bottoms - track pants with cuff in size extra small, Waist: 23, Hip: 35, Inseam: 26, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants with cuff in size small</pattern>
+    <template>For ladies' bottoms - track pants with cuff in size small, Waist: 25, Hip: 37, Inseam: 26, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants with cuff in size medium</pattern>
+    <template>For ladies' bottoms - track pants with cuff in size medium, Waist: 27, Hip: 39, Inseam: 26, USA: 6, EU: 38, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants with cuff in size large</pattern>
+    <template>For ladies' bottoms - track pants with cuff in size large, Waist: 29, Hip: 41, Inseam: 26, USA: 10, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - track pants with cuff in size extra large</pattern>
+    <template>For ladies' bottoms - track pants with cuff in size extra large, Waist: 31, Hip: 43, Inseam: 26, USA: 10, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (alpha sizing) in size extra small</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (alpha sizing) in size extra small, Waist: 24, Hip: 34, Inseam: 27, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (alpha sizing) in size small</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (alpha sizing) in size small, Waist: 26, Hip: 36, Inseam: 27, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (alpha sizing) in size medium</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (alpha sizing) in size medium, Waist: 28, Hip: 38, Inseam: 27, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (alpha sizing) in size large</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (alpha sizing) in size large, Waist: 30, Hip: 40, Inseam: 27, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (alpha sizing) in size extra large</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (alpha sizing) in size extra large, Waist: 32, Hip: 42, Inseam: 27, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (numerical sizing) in size 26</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (numerical sizing) in size 26, Waist: 26, Hip: 36, Inseam: 27, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (numerical sizing) in size 27</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (numerical sizing) in size 27, Waist: 27, Hip: 37, Inseam: 27, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (numerical sizing) in size 28</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (numerical sizing) in size 28, Waist: 28, Hip: 38, Inseam: 27, USA: 6, EU: 38, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (numerical sizing) in size 29</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (numerical sizing) in size 29, Waist: 29, Hip: 39, Inseam: 27, USA: 10, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (numerical sizing) in size 30</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (numerical sizing) in size 30, Waist: 30, Hip: 40, Inseam: 27, USA: 10, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban tapered trousers (numerical sizing) in size 32</pattern>
+    <template>For ladies' bottoms - urban tapered trousers (numerical sizing) in size 32, Waist: 32, Hip: 42, Inseam: 27, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban wide trousers (alpha sizing) in size extra small</pattern>
+    <template>For ladies' bottoms - urban wide trousers (alpha sizing) in size extra small, Waist: 24, Hip: 34, Inseam: 27, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban wide trousers (alpha sizing) in size small</pattern>
+    <template>For ladies' bottoms - urban wide trousers (alpha sizing) in size small, Waist: 26, Hip: 36, Inseam: 27, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban wide trousers (alpha sizing) in size medium</pattern>
+    <template>For ladies' bottoms - urban wide trousers (alpha sizing) in size medium, Waist: 28, Hip: 38, Inseam: 27, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban wide trousers (alpha sizing) in size large</pattern>
+    <template>For ladies' bottoms - urban wide trousers (alpha sizing) in size large, Waist: 30, Hip: 40, Inseam: 27, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban wide trousers (alpha sizing) in size extra large</pattern>
+    <template>For ladies' bottoms - urban wide trousers (alpha sizing) in size extra large, Waist: 32, Hip: 42, Inseam: 27, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban wide trousers (numerical sizing) in size 26</pattern>
+    <template>For ladies' bottoms - urban wide trousers (numerical sizing) in size 26, Waist: 26, Hip: 36, Inseam: 27, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban wide trousers (numerical sizing) in size 27</pattern>
+    <template>For ladies' bottoms - urban wide trousers (numerical sizing) in size 27, Waist: 27, Hip: 37, Inseam: 27, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban wide trousers (numerical sizing) in size 28</pattern>
+    <template>For ladies' bottoms - urban wide trousers (numerical sizing) in size 28, Waist: 28, Hip: 38, Inseam: 27, USA: 6, EU: 38, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban wide trousers (numerical sizing) in size 30</pattern>
+    <template>For ladies' bottoms - urban wide trousers (numerical sizing) in size 30, Waist: 30, Hip: 40, Inseam: 27, USA: 10, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' bottoms - urban wide trousers (numerical sizing) in size 32</pattern>
+    <template>For ladies' bottoms - urban wide trousers (numerical sizing) in size 32, Waist: 32, Hip: 42, Inseam: 27, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's loungewear robe in size small</pattern>
+    <template>For men's loungewear robe in size small, Chest: 44, Body Length: 40, Sleeve Length: 19.5, USA: 12-16, EU: 46-50, and UK: 36-40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's loungewear robe in size medium</pattern>
+    <template>For men's loungewear robe in size medium, Chest: 48, Body Length: 42, Sleeve Length: 19.5, USA: 18-20, EU: 52-54, and UK: 42-44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - top (oversized tee) in size extra small</pattern>
+    <template>For ladies' lounge set - top (oversized tee) in size extra small, Chest: 39, Body Length: 19, Sleeve Length: 7.75, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - top (oversized tee) in size small</pattern>
+    <template>For ladies' lounge set - top (oversized tee) in size small, Chest: 41, Body Length: 19.5, Sleeve Length: 8, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - top (oversized tee) in size medium</pattern>
+    <template>For ladies' lounge set - top (oversized tee) in size medium, Chest: 43, Body Length: 20, Sleeve Length: 8.25, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - top (oversized tee) in size large</pattern>
+    <template>For ladies' lounge set - top (oversized tee) in size large, Chest: 45, Body Length: 20.5, Sleeve Length: 8.5, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - top (oversized tee) in size extra large</pattern>
+    <template>For ladies' lounge set - top (oversized tee) in size extra large, Chest: 47, Body Length: 21, Sleeve Length: 8.75, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - bottom (shorts) in size extra small</pattern>
+    <template>For ladies' lounge set - bottom (shorts) in size extra small, Chest: 26, Body Length: 18, Sleeve Length: 2, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - bottom (shorts) in size small</pattern>
+    <template>For ladies' lounge set - bottom (shorts) in size small, Chest: 28, Body Length: 19, Sleeve Length: 2, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - bottom (shorts) in size medium</pattern>
+    <template>For ladies' lounge set - bottom (shorts) in size medium, Chest: 30, Body Length: 20, Sleeve Length: 2, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - bottom (shorts) in size large</pattern>
+    <template>For ladies' lounge set - bottom (shorts) in size large, Chest: 32, Body Length: 21, Sleeve Length: 2, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - bottom (shorts) in size extra large</pattern>
+    <template>For ladies' lounge set - bottom (shorts) in size extra large, Chest: 34, Body Length: 22, Sleeve Length: 2, USA: 12, EU: 42, and UK: 16</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - top (spaghetti) in size extra small</pattern>
+    <template>For ladies' lounge set - top (spaghetti) in size extra small, Chest: 31, Body Length: 16, Sleeve Length: N/A, USA: 2, EU: 30, and UK: 6.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - top (spaghetti) in size small</pattern>
+    <template>For ladies' lounge set - top (spaghetti) in size small, Chest: 33, Body Length: 16.5, Sleeve Length: N/A, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - top (spaghetti) in size medium</pattern>
+    <template>For ladies' lounge set - top (spaghetti) in size medium, Chest: 35, Body Length: 17, Sleeve Length: N/A, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - top (spaghetti) in size large</pattern>
+    <template>For ladies' lounge set - top (spaghetti) in size large, Chest: 37, Body Length: 17.5, Sleeve Length: N/A, USA: 8, EU: 40, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - top (spaghetti) in size extra large</pattern>
+    <template>For ladies' lounge set - top (spaghetti) in size extra large, Chest: 39, Body Length: 18, Sleeve Length: N/A, USA: 10, EU: 42, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - bottom (shorts) in size extra small</pattern>
+    <template>For ladies' lounge set - bottom (shorts) in size extra small, Chest: 26, Body Length: 36, Sleeve Length: 2, USA: 4, EU: 32, and UK: 8.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - bottom (shorts) in size small</pattern>
+    <template>For ladies' lounge set - bottom (shorts) in size small, Chest: 28, Body Length: 38, Sleeve Length: 2, USA: 6, EU: 36, and UK: 10.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - bottom (shorts) in size medium</pattern>
+    <template>For ladies' lounge set - bottom (shorts) in size medium, Chest: 30, Body Length: 40, Sleeve Length: 2, USA: 8, EU: 38, and UK: 12.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - bottom (shorts) in size large</pattern>
+    <template>For ladies' lounge set - bottom (shorts) in size large, Chest: 32, Body Length: 42, Sleeve Length: 2, USA: 10, EU: 40, and UK: 14.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lounge set - bottom (shorts) in size extra large</pattern>
+    <template>For ladies' lounge set - bottom (shorts) in size extra large, Chest: 34, Body Length: 44, Sleeve Length: 2, USA: 12, EU: 42, and UK: 16.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' footwear single band sliders</pattern>
+    <template>For ladies' footwear single band sliders, (US: 5, EU: 35, CM: 23.5), (US: 6, EU: 36, CM: 24.2), (US: 7, EU: 37, CM: 24.9), (US: 8, EU: 38, CM: 25.6), (US: 9, EU: 39, CM: 26.3).</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' footwear velcro sliders</pattern>
+    <template>For ladies' footwear velcro sliders, (US: 5, EU: 35, CM: 23.5), (US: 6, EU: 36, CM: 24.2), (US: 7, EU: 37, CM: 24.9), (US: 8, EU: 38, CM: 25.6), (US: 9, EU: 39, CM: 26.3).</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' regular flipflops</pattern>
+    <template>For ladies' regular flipflops, (US: 5, EU: 35, CM: 23.2), (US: 6, EU: 36, CM: 23.9), (US: 7, EU: 37, CM: 24.6), (US: 8, EU: 38, CM: 25.3), (US: 9, EU: 39, CM: 26), then the slippers thicknes is 15mm.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' lace-up sneakers</pattern>
+    <template>For ladies' lace-up sneakers, (US: 5, EU: 35, CM: 23.5), (US: 6, EU: 36, CM: 24), (US: 7, EU: 37, CM: 24.5), (US: 8, EU: 38, CM: 25), (US: 9, EU: 39, CM: 25.5).</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' runner shoes</pattern>
+    <template>For ladies' runner shoes, (US: 5, EU: 35, CM: 23.5), (US: 6, EU: 36, CM: 24), (US: 7, EU: 37, CM: 24.5), (US: 8, EU: 38, CM: 25), (US: 9, EU: 39, CM: 25.5).</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed tee in size double extra small</pattern>
+    <template>For men's coed tee in size double extra small, Chest: 36, Body Length: 27.5, Sleeve Length: 7, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed tee in size extra small</pattern>
+    <template>For men's coed tee in size extra small, Chest: 38, Body Length: 27.5, Sleeve Length: 7.25, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed tee in size small</pattern>
+    <template>For men's coed tee in size small, Chest: 40, Body Length: 28, Sleeve Length: 7.5, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed tee in size medium</pattern>
+    <template>For men's coed tee in size medium, Chest: 42, Body Length: 28.5, Sleeve Length: 7.75, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed tee in size large</pattern>
+    <template>For men's coed tee in size large, Chest: 44, Body Length: 29, Sleeve Length: 8, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed tee in size extra large</pattern>
+    <template>For men's coed tee in size extra large, Chest: 46, Body Length: 30, Sleeve Length: 8.25, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed tee in size double extra large</pattern>
+    <template>For men's coed tee in size double extra large, Chest: 48, Body Length: 30.5, Sleeve Length: 8.5, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed tee in size triple extra large</pattern>
+    <template>For men's coed tee in size triple extra large, Chest: 50, Body Length: 31, Sleeve Length: 8.75, USA: 24, EU: 58, and UK: 48.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed tee in size small</pattern>
+    <template>For ladies' coed tee in size double extra small, Chest: 36, Body Length: 27.5, Sleeve Length: 7, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed tee in size medium</pattern>
+    <template>For ladies' coed tee in size medium, Chest: 38, Body Length: 27.5, Sleeve Length: 7.25, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed tee in size large</pattern>
+    <template>For ladies' coed tee in size large, Chest: 40, Body Length: 28, Sleeve Length: 7.5, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed tee in size extra large</pattern>
+    <template>For ladies' coed tee in size extra large, Chest: 42, Body Length: 28.5, Sleeve Length: 7.75, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed pullover in size double extra small</pattern>
+    <template>For men's coed pullover in size double extra small, Chest: 38, Body Length: 24, Sleeve Length: 21.25, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed pullover in size extra small</pattern>
+    <template>For men's coed pullover in size extra small, Chest: 40, Body Length: 25, Sleeve Length: 21.5, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed pullover in size small</pattern>
+    <template>For men's coed pullover in size small, Chest: 42, Body Length: 26, Sleeve Length: 21.75, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed pullover in size medium</pattern>
+    <template>For men's coed pullover in size medium, Chest: 44, Body Length: 27, Sleeve Length: 22, USA: 16, EU: 50, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed pullover in size large</pattern>
+    <template>For men's coed pullover in size large, Chest: 46, Body Length: 28, Sleeve Length: 22.25, USA: 18, EU: 52, and UK: 42.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed pullover in size extra large</pattern>
+    <template>For men's coed pullover in size extra large, Chest: 48, Body Length: 29, Sleeve Length: 22.5, USA: 20, EU: 54, and UK: 44.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed pullover in size double extra large</pattern>
+    <template>For men's coed pullover in size double extra large, Chest: 50, Body Length: 30, Sleeve Length: 22.75, USA: 22, EU: 56, and UK: 46.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed pullover in size triple extra large</pattern>
+    <template>For men's coed pullover in size triple extra large, Chest: 52, Body Length: 31, Sleeve Length: 23, USA: 24, EU: 58, and UK: 48.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed pullover in size small</pattern>
+    <template>For ladies' coed pullover in size small, Chest: 38, Body Length: 24, Sleeve Length: 21.25, USA: 10, EU: 44, and UK: 34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed pullover in size medium</pattern>
+    <template>For ladies' coed pullover in size medium, Chest: 40, Body Length: 25, Sleeve Length: 21.5, USA: 12, EU: 46, and UK: 36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed pullover in size large</pattern>
+    <template>For ladies' coed pullover in size large, Chest: 42, Body Length: 26, Sleeve Length: 21.75, USA: 14, EU: 48, and UK: 38.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed pullover in size extra large</pattern>
+    <template>For ladies' coed pullover in size extra large, Chest: 44, Body Length: 27, Sleeve Length: 22, USA: 16, EU: 50, and UK: 40.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (urban straight trouser) in size double extra small</pattern>
+    <template>For men's coed woven trousers (urban straight trouser) in size double extra small, Waist: 22, Hip: 34, Inseam: 23, USA: 34-36, EU: 35-36, and UK: 27-28.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (urban straight trouser) in size extra small</pattern>
+    <template>For men's coed woven trousers (urban straight trouser) in size extra small, Waist: 24, Hip: 36, Inseam: 23, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (urban straight trouser) in size small</pattern>
+    <template>For men's coed woven trousers (urban straight trouser) in size small, Waist: 26, Hip: 38, Inseam: 24, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (urban straight trouser) in size medium</pattern>
+    <template>For men's coed woven trousers (urban straight trouser) in size medium, Waist: 28, Hip: 40, Inseam: 24, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (urban straight trouser) in size large</pattern>
+    <template>For men's coed woven trousers (urban straight trouser) in size large, Waist: 30, Hip: 42, Inseam: 25, USA: 43-44, EU: 43-44, and UK: 33-34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (urban straight trouser) in size extra large</pattern>
+    <template>For men's coed woven trousers (urban straight trouser) in size extra large, Waist: 32, Hip: 44, Inseam: 25, USA: 45-46, EU: 45-46, and UK: 35-36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed woven trousers (urban straight trouser) in size small</pattern>
+    <template>For ladies' coed woven trousers (urban straight trouser) in size small, Waist: 22, Hip: 34, Inseam: 23, USA: 34-36, EU: 35-36, and UK: 27-28.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed woven trousers (urban straight trouser) in size medium</pattern>
+    <template>For ladies' coed woven trousers (urban straight trouser) in size medium, Waist: 24, Hip: 36, Inseam: 23, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed woven trousers (urban straight trouser) in size large</pattern>
+    <template>For ladies' coed woven trousers (urban straight trouser) in size large, Waist: 26, Hip: 38, Inseam: 24, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed woven trousers (urban straight trouser) in size extra large</pattern>
+    <template>For ladies' coed woven trousers (urban straight trouser) in size extra large, Waist: 28, Hip: 40, Inseam: 24, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed shorts (woven) in size double extra small</pattern>
+    <template>For men's coed shorts (woven) in size double extra small, Waist: 27, Hip: 37, Inseam: 5, USA: 34-36, EU: 35-36, and UK: 27-28.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed shorts (woven) in size extra small</pattern>
+    <template>For men's coed shorts (woven) in size extra small, Waist: 29, Hip: 39, Inseam: 5, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed shorts (woven) in size small</pattern>
+    <template>For men's coed shorts (woven) in size small, Waist: 31, Hip: 41, Inseam: 5, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed shorts (woven) in size medium</pattern>
+    <template>For men's coed shorts (woven) in size medium, Waist: 33, Hip: 43, Inseam: 5, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed shorts (woven) in size large</pattern>
+    <template>For men's coed shorts (woven) in size large, Waist: 35, Hip: 45, Inseam: 5, USA: 43-44, EU: 43-44, and UK: 33-34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed shorts (woven) in size extra large</pattern>
+    <template>For men's coed shorts (woven) in size extra large, Waist: 37, Hip: 47, Inseam: 5, USA: 45-46, EU: 45-46, and UK: 35-36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed shorts (woven) in size small</pattern>
+    <template>For ladies' coed shorts (woven) in size small, Waist: 27, Hip: 37, Inseam: 5, USA: 34-36, EU: 35-36, and UK: 27-28.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed shorts (woven) in size medium</pattern>
+    <template>For ladies' coed shorts (woven) in size medium, Waist: 29, Hip: 39, Inseam: 5, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed shorts (woven) in size large</pattern>
+    <template>For ladies' coed shorts (woven) in size large, Waist: 31, Hip: 41, Inseam: 5, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed shorts (woven) in size extra large</pattern>
+    <template>For ladies' coed shorts (woven) in size extra large, Waist: 33, Hip: 43, Inseam: 5, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (tapered) in size double extra small</pattern>
+    <template>For men's coed woven trousers (tapered) in size double extra small, Waist: 22, Hip: 34, Inseam: 24, USA: 34-36, EU: 35-36, and UK: 27-28.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (tapered) in size extra small</pattern>
+    <template>For men's coed woven trousers (tapered) in size extra small, Waist: 24, Hip: 36, Inseam: 24, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (tapered) in size small</pattern>
+    <template>For men's coed woven trousers (tapered) in size small, Waist: 26, Hip: 38, Inseam: 24, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (tapered) in size medium</pattern>
+    <template>For men's coed woven trousers (tapered) in size medium, Waist: 28, Hip: 40, Inseam: 24, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (tapered) in size large</pattern>
+    <template>For men's coed woven trousers (tapered) in size large, Waist: 30, Hip: 42, Inseam: 24, USA: 43-44, EU: 43-44, and UK: 33-34.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for men's coed woven trousers (tapered) in size extra large</pattern>
+    <template>For men's coed woven trousers (tapered) in size extra large, Waist: 32, Hip: 44, Inseam: 24, USA: 45-46, EU: 45-46, and UK: 35-36.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed woven trousers (tapered) in size small</pattern>
+    <template>For ladies' coed woven trousers (tapered) in size small, Waist: 22, Hip: 34, Inseam: 24, USA: 34-36, EU: 35-36, and UK: 27-28.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed woven trousers (tapered) in size medium</pattern>
+    <template>For ladies' coed woven trousers (tapered) in size medium, Waist: 24, Hip: 36, Inseam: 24, USA: 36-38, EU: 36-38, and UK: 29-30.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed woven trousers (tapered) in size large</pattern>
+    <template>For ladies' coed woven trousers (tapered) in size large, Waist: 26, Hip: 38, Inseam: 24, USA: 39-40, EU: 39-40, and UK: 30-31.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for ladies' coed woven trousers (tapered) in size extra large</pattern>
+    <template>For ladies' coed woven trousers (tapered) in size extra large, Waist: 28, Hip: 40, Inseam: 24, USA: 40-42, EU: 40-42, and UK: 31-32.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - regular backpack</pattern>
+    <template>For accessories - regular backpack, Length: 17 inches, Width: 11 inches, Depth: 5 inches, Strap Length: 16.5 inches, Strap Width: 2.75 inches.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - large backpack</pattern>
+    <template>For accessories - large backpack, Length: 18 inches, Width: 12 inches, Depth: 6 inches, Strap Length: 16.5 inches, Strap Width: 2.75 inches.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - drawstring backpack</pattern>
+    <template>For accessories - drawstring backpack, Length: 17 inches and Width: 13 inches.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - regular bum bag</pattern>
+    <template>For accessories - regular bum bag, Length: 4.5 inches, Width: 13.5 inches, Depth: 3 inches, Strap Length: 43 inches, Strap Width: 1.5 inches.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - multi pockets bum bag</pattern>
+    <template>For accessories - multi pockets bum bag, Length: 7.5 inches, Width: 13 inches, Depth: 3.5 inches.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - oversized bum bag</pattern>
+    <template>For accessories - oversized bum bag, Length: 9 inches, Width: 18 inches, Depth: 4 inches.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - duffle bag</pattern>
+    <template>For accessories - duffle bag, Length: 9.75 inches, Width: 18 inches, Depth: 9.75 inches.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - mini sling bag</pattern>
+    <template>For accessories - mini sling bag, Length: 7 inches, Width: 5 inches, Depth: 1.5 inches, Strap Length: 53 inches, Strap Width: 1 inches.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - regular sling bag</pattern>
+    <template>For accessories - regular sling bag, Length: 9 inches, Width: 7 inches, Depth: 2 inches, Strap Length: 53 inches, Strap Width: 1 inches.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - mid sized messenger bag</pattern>
+    <template>or accessories - mid sized messenger bag, Length: 10 inches, Width: 8 inches, Depth: 2.5 inches, Strap Length: 5.3 inches, Strap Width: 1.5 inches.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - type 1 tote bag</pattern>
+    <template>For accessories - type 1 tote bag, Length: 16 inches, Width: 10 inches, Depth: 4 inches, Strap Length: 26 inches, Strap Width: 1.5 inches.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - type 2 tote bag</pattern>
+    <template>For accessories - type 2 tote bag, Length: 16 inches, Width: 13.5 inches, Depth: N/A, Strap Length: 26 inches, Strap Width: 1 inches.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - beanie</pattern>
+    <template>For accessories - beanie, Circumference: 57 cm and Height: 8.89 cm.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - bucket hat</pattern>
+    <template>For accessories - bucket hat, Circumference: 59 cm, Height: 8.89 cm, Visor Length: 6.35 cm.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - curved cap</pattern>
+    <template>For accessories - curved cap, Circumference: 57 cm, Height: 16.51 cm, Visor Length: 6.99 cm.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - dad hat</pattern>
+    <template>For accessories - dad hat, Circumference: 57 cm, Height: 17.78 cm, Visor Length: 6.99 cm.</template>
+  </category>
+  
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - snap back</pattern>
+    <template>For accessories - snap back, Circumference: 57 cm, Height: 16.51 cm, Visor Length: 6.35 cm.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - trucker cap</pattern>
+    <template>For accessories - trucker cap, Circumference: 57 cm, Height: 16.51 cm, Visor Length: 6.99 cm.</template>
+  </category>
+    
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - type 1 coin purse</pattern>
+    <template>For accessories - type 1 coin purse, Length: 4 inches, Width: 3 inches, Depth: 0.75 inch, Zipper Length: 3 3/4 inches.</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - type 2 coin purse</pattern>
+    <template>For accessories - type 2 coin purse, Length: 3 inches, Width: 4 inches, Depth: 0.75 inch, Zipper Length: 5 1/2 inches.</template>
+  </category>
+    
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - bifold wallet</pattern>
+    <template>For accessories - bifold wallet, Folded: (Length: 3.5 inches, Width: 3 1/2 inches, Depth: 0.5 inch), Bill Compartment: (Length: 4.5 inches and Height: 3 1/4 inches).</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - midsized bifold wallet</pattern>
+    <template>For accessories - midsized bifold wallet, Folded: (Length: 3 1/4 inches, Width: 4 1/2 inches), Bill Compartment: (Length: 6 1/2 inches and Height: 3 3/4 inches).</template>
+  </category>
+    
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - trifold wallet</pattern>
+    <template>For accessories - trifold wallet, Folded: (Length: 4 1/4 inches, Width: 3 1/2 inches), Bill Compartment: (Length: 8 1/2 inches and Height: 3 1/4 inches).</template>
+  </category>
+
+  <category>
+    <pattern>What are the size and dimension possibilities for accessories - zip around bifold wallet</pattern>
+    <template>For accessories - zip around bifold wallet, Folded: (Length: 4 1/4 inches, Width: 3 1/2 inches, Depth: 0.5 inch), Bill Compartment: (Length: 8 1/2 inches and Height: 3 1/4 inches).</template>
+  </category> <!-- Dataset 489 -->
+
+</aiml>
