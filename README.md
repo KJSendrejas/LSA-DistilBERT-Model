@@ -38,6 +38,7 @@ Run the application "/System/CCB Simulator/LSADistilBERT/simulator/FinalModelSim
 - [Kent Jude L. Sendrejas](https://github.com/KJSendrejas)
 - [Ace Dave B. Comendador](https://github.com/Ishik1i)
 - [Cyril James E. Lunzaga](https://github.com/DarkMatterCJL)
+- [Charisse P. Barbosa]()
 
 ## Acknowledgements
 We would like to extend our heartfelt appreciation to Ms. Charisse P. Barbosa, MSIS, our thesis adviser, for the unwavering support and guidance provided throughout the process of completing our thesis, titled "Deep NLP and DistilBERT Conversational Chatbot for Customer Relationship Management.", for her exceptional support, constructive feedback, and guidance. She has been instrumental in shaping the direction of our thesis and enhancing the quality of our work. We are truly fortunate to have had a dedicated and knowledgeable adviser.
